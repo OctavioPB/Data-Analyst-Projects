@@ -1499,3 +1499,1473 @@ Vietnam,Asia,2021,41,30,11
 Yemen,Asia,2021,5,0,0
 Zambia,Africa,2021,10,0,0
 Zimbabwe,Africa,2021,3,3,0
+Afghanistan                        ,Asia,2002,13,5,8
+Albania                            ,Europe,2002,100,10,90
+Algeria                            ,Africa,2002,40,8,32
+Angola                             ,Africa,2002,16,0,0
+Antigua-Barbuda                    ,South America,2002,40,35,5
+Argentina                          ,South America,2002,513,64,449
+Armenia                            ,Europe,2002,65,4,61
+Australia                          ,Oceania,2002,164,21,143
+Austria                            ,Europe,2002,23,5,18
+Azerbaijan                         ,Asia,2002,6,0,0
+Bahamas                    ,South America,2002,134,99,35
+Bangladesh                         ,Asia,2002,121,11,110
+Barbados                           ,South America,2002,56,49,7
+Belarus                            ,Europe,2002,8,0,0
+Belgium                            ,Europe,2002,24,8,16
+Belize                             ,South America,2002,178,114,64
+Bermuda                            ,South America,2002,       -,       -,       -
+Bolivia                            ,South America,2002,240,24,216
+Bosnia-Herzegovina                 ,Europe,2002,10,5,5
+Brazil                             ,South America,2002,"2,623",131,"2,492"
+Bulgaria                           ,Europe,2002,60,15,45
+Burkina Faso                       ,Africa,2002,7,       -,7
+Burma                              ,Africa,2002,3,0,0
+Cambodia                           ,Asia,2002,24,18,6
+Cameroon                           ,Africa,2002,28,7,21
+Canada                             ,North America,2002,"1,075",545,530
+Cape Verde                         ,Africa,2002,48,37,11
+Chad                               ,Africa,2002,3,0,0
+Chile                              ,South America,2002,168,44,124
+"China, People's Republic           ",Asia,2002,679,126,553
+Colombia                           ,South America,2002,"2,306","1,473",833
+"Congo, Democratic Republic         ",Africa,2002,23,7,16
+"Congo, Republic                    ",Africa,2002,23,0,0
+Costa Rica                         ,South America,2002,376,56,320
+Cote d'Ivoire                      ,Africa,2002,37,8,29
+Croatia                            ,Europe,2002,12,3,9
+Cuba                               ,South America,2002,76,60,16
+Czech Republic                     ,Europe,2002,26,5,21
+"Czechoslovakia, former             ",Europe,2002,226,26,200
+Denmark                            ,Europe,2002,16,0,0
+Dominican Republic                 ,South America,2002,"3,563","1,985","1,578"
+Ecuador                            ,South America,2002,729,166,563
+Egypt                              ,Africa,2002,290,67,223
+El Salvador                        ,South America,2002,"4,066","1,771","2,295"
+Eritrea                            ,Africa,2002,12,0,0
+Estonia                            ,Europe,2002,28,0,0
+Ethiopia                           ,Africa,2002,31,12,19
+Fiji                               ,Oceania,2002,36,18,18
+Finland                            ,Europe,2002,8,3,5
+France                             ,Europe,2002,187,47,140
+Gabon                              ,Africa,2002,       -,       -,       -
+Gambia                      ,Africa,2002,43,15,28
+Georgia                            ,Europe,2002,30,6,24
+Germany                            ,Europe,2002,162,66,96
+Ghana                              ,Africa,2002,213,41,172
+Greece                             ,Europe,2002,47,19,28
+Guatemala                          ,South America,2002,"5,396","1,344","4,052"
+Guinea                             ,South America,2002,56,13,43
+Guyana                             ,South America,2002,321,237,84
+Haiti                              ,South America,2002,513,300,213
+Honduras                           ,South America,2002,"4,946","1,502","3,444"
+Hong Kong                          ,Asia,2002,14,7,7
+Hungary                            ,Europe,2002,125,14,111
+India                              ,Asia,2002,590,89,501
+Indonesia                          ,Asia,2002,207,18,189
+Iran                               ,Asia,2002,64,22,42
+Iraq                               ,Asia,2002,13,3,10
+Ireland                            ,Europe,2002,69,16,53
+Israel                             ,Asia,2002,179,41,138
+Italy                              ,Europe,2002,133,57,76
+Jamaica                            ,South America,2002,"2,172","1,517",655
+Japan                              ,Asia,2002,104,30,74
+Jordan                             ,Asia,2002,222,77,145
+Kazakhstan                         ,Asia,2002,21,3,18
+Kenya                              ,Africa,2002,90,35,55
+Korea 2 ,Asia,2002,333,123,210
+Kosovo                             ,Europe,2002,X,X,X
+Kuwait                             ,Africa,2002,15,5,10
+Kyrgyzstan                         ,Asia,2002,5,       -,5
+Laos                               ,Asia,2002,6,       -,6
+Latvia                             ,Europe,2002,15,0,0
+Lebanon                            ,Africa,2002,130,37,93
+Liberia                            ,Africa,2002,39,27,12
+Lithuania                          ,Europe,2002,64,9,55
+Macedonia                          ,Europe,2002,23,6,17
+Malaysia                           ,Asia,2002,104,16,88
+Mexico                             ,North America,2002,"122,058","57,926","64,132"
+Moldova                            ,Europe,2002,8,0,0
+Mongolia                           ,Asia,2002,20,0,0
+Montenegro                         ,Europe,2002,X,X,X
+Morocco                            ,Asia,2002,118,35,83
+Nepal                              ,Asia,2002,23,0,0
+Netherlands                        ,Europe,2002,101,50,51
+New Zealand                        ,Oceania,2002,113,18,95
+Nicaragua                          ,South America,2002,468,248,220
+Niger                              ,Africa,2002,28,15,13
+Nigeria                            ,Africa,2002,471,233,238
+Norway                             ,Europe,2002,8,       -,8
+Pakistan                           ,Asia,2002,912,127,785
+Panama                             ,South America,2002,163,109,54
+Paraguay                           ,South America,2002,22,       -,22
+Peru                               ,South America,2002,917,215,702
+Philippines                        ,South America,2002,760,299,461
+Poland                             ,Europe,2002,374,88,286
+Portugal                           ,Europe,2002,123,70,53
+Romania                            ,Europe,2002,110,36,74
+Russia                             ,Europe,2002,167,38,129
+Rwanda                             ,Africa,2002,4,0,0
+Saint Vincent and the Grenadines     ,South America,2002,39,26,13
+Saudi Arabia                       ,Asia,2002,40,10,30
+Senegal                            ,Africa,2002,99,18,81
+Serbia                             ,Europe,2002,X,X,X
+Serbia and Montenegro 3       ,Europe,2002,69,16,53
+Sierra Leone                       ,Africa,2002,44,19,25
+Singapore                          ,Asia,2002,33,3,30
+Slovakia                           ,Europe,2002,40,8,32
+Slovenia                           ,Europe,2002,0,0,0
+Somalia                            ,Africa,2002,45,25,20
+South Africa                       ,Africa,2002,54,13,41
+"Soviet Union, former               ",Europe,2002,12,8,4
+Spain                              ,Europe,2002,82,27,55
+Sri Lanka                          ,Asia,2002,78,7,71
+Sudan                              ,Africa,2002,24,0,0
+Suriname                           ,Africa,2002,7,4,3
+Sweden                             ,Europe,2002,34,0,0
+Switzerland                        ,Europe,2002,27,6,21
+Syria                              ,Asia,2002,65,20,45
+Taiwan                             ,Asia,2002,60,19,41
+Tajikistan                         ,Asia,2002,0,       -,0
+Tanzania                           ,Africa,2002,14,0,0
+Thailand                           ,Asia,2002,74,24,50
+Togo                               ,Africa,2002,14,0,0
+Tonga                              ,Africa,2002,38,22,16
+Trinidad and Tobago                  ,South America,2002,403,183,220
+Tunisia                            ,Africa,2002,53,9,44
+Turkey                             ,Asia,2002,135,28,107
+Uganda                             ,Africa,2002,21,10,11
+Ukraine                            ,Europe,2002,181,15,166
+United Arab Emirates               ,Asia,2002,5,0,0
+United Kingdom                     ,Europe,2002,549,252,297
+Uruguay                            ,South America,2002,85,15,70
+Uzbekistan                         ,Asia,2002,48,5,43
+Venezuela                          ,South America,2002,287,130,157
+Vietnam                            ,Asia,2002,19,6,13
+Yemen                              ,Asia,2002,55,13,42
+Zambia                             ,Africa,2002,12,4,8
+Zimbabwe                           ,Africa,2002,25,9,16
+Afghanistan                        ,Asia,2003,74,29,45
+Albania                            ,Europe,2003,208,18,190
+Algeria                            ,Africa,2003,61,18,43
+Angola                             ,Africa,2003,15,0,0
+Antigua-Barbuda                    ,South America,2003,44,33,11
+Argentina                          ,South America,2003,552,92,460
+Armenia                            ,Europe,2003,143,21,122
+Australia                          ,Oceania,2003,114,16,98
+Austria                            ,Europe,2003,17,3,14
+Azerbaijan                         ,Asia,2003,0,0,0
+Bahamas                    ,South America,2003,164,123,41
+Bangladesh                         ,Asia,2003,149,23,126
+Barbados                           ,South America,2003,61,49,12
+Belarus                            ,Europe,2003,12,0,0
+Belgium                            ,Europe,2003,27,14,13
+Belize                             ,South America,2003,179,117,62
+Bermuda                            ,South America,2003,       -,       -,       -
+Bolivia                            ,South America,2003,271,40,231
+Bosnia-Herzegovina                 ,Europe,2003,25,17,8
+Brazil                             ,South America,2003,"4,046",219,"3,827"
+Bulgaria                           ,Europe,2003,75,13,62
+Burkina Faso                       ,Africa,2003,9,0,0
+Burma                              ,Africa,2003,7,0,0
+Cambodia                           ,Asia,2003,66,51,15
+Cameroon                           ,Africa,2003,48,4,44
+Canada                             ,North America,2003,"1,001",449,552
+Cape Verde                         ,Africa,2003,44,32,12
+Chad                               ,Africa,2003,5,0,0
+Chile                              ,South America,2003,247,69,178
+"China, People's Republic           ",Asia,2003,998,138,860
+Colombia                           ,South America,2003,"2,386","1,346","1,040"
+"Congo, Democratic Republic         ",Africa,2003,12,5,7
+"Congo, Republic                    ",Africa,2003,28,0,0
+Costa Rica                         ,South America,2003,514,64,450
+Cote d'Ivoire                      ,Africa,2003,46,13,33
+Croatia                            ,Europe,2003,17,7,10
+Cuba                               ,South America,2003,76,40,36
+Czech Republic                     ,Europe,2003,15,0,0
+"Czechoslovakia, former             ",Europe,2003,179,25,154
+Denmark                            ,Europe,2003,21,4,17
+Dominican Republic                 ,South America,2003,"3,472","2,137","1,335"
+Ecuador                            ,South America,2003,722,195,527
+Egypt                              ,Africa,2003,322,46,276
+El Salvador                        ,South America,2003,"5,561","2,115","3,446"
+Eritrea                            ,Africa,2003,18,4,14
+Estonia                            ,Europe,2003,15,0,0
+Ethiopia                           ,Africa,2003,77,25,52
+Fiji                               ,Oceania,2003,58,19,39
+Finland                            ,Europe,2003,7,3,4
+France                             ,Europe,2003,173,49,124
+Gabon                              ,Africa,2003,0,       -,0
+Gambia                      ,Africa,2003,90,25,65
+Georgia                            ,Europe,2003,67,16,51
+Germany                            ,Europe,2003,195,66,129
+Ghana                              ,Africa,2003,306,60,246
+Greece                             ,Europe,2003,54,24,30
+Guatemala                          ,South America,2003,"7,726","1,731","5,995"
+Guinea                             ,South America,2003,73,18,55
+Guyana                             ,South America,2003,356,182,174
+Haiti                              ,South America,2003,"1,154",517,637
+Honduras                           ,South America,2003,"8,182","2,036","6,146"
+Hong Kong                          ,Asia,2003,18,6,12
+Hungary                            ,Europe,2003,107,20,87
+India                              ,Asia,2003,877,105,772
+Indonesia                          ,Asia,2003,325,14,311
+Iran                               ,Asia,2003,89,18,71
+Iraq                               ,Asia,2003,28,0,0
+Ireland                            ,Europe,2003,80,19,61
+Israel                             ,Asia,2003,182,42,140
+Italy                              ,Europe,2003,142,65,77
+Jamaica                            ,South America,2003,"2,086","1,467",619
+Japan                              ,Asia,2003,119,28,91
+Jordan                             ,Asia,2003,295,104,191
+Kazakhstan                         ,Asia,2003,17,3,14
+Kenya                              ,Africa,2003,118,46,72
+Korea 2 ,Asia,2003,384,93,291
+Kosovo                             ,Europe,2003,X,X,X
+Kuwait                             ,Africa,2003,27,10,17
+Kyrgyzstan                         ,Asia,2003,6,0,0
+Laos                               ,Asia,2003,15,0,0
+Latvia                             ,Europe,2003,23,0,0
+Lebanon                            ,Africa,2003,168,45,123
+Liberia                            ,Africa,2003,41,22,19
+Lithuania                          ,Europe,2003,82,12,70
+Macedonia                          ,Europe,2003,37,3,34
+Malaysia                           ,Asia,2003,80,20,60
+Mexico                             ,North America,2003,"155,812","66,102","89,710"
+Moldova                            ,Europe,2003,10,3,7
+Mongolia                           ,Asia,2003,44,0,0
+Montenegro                         ,Europe,2003,X,X,X
+Morocco                            ,Asia,2003,131,52,79
+Nepal                              ,Asia,2003,38,3,35
+Netherlands                        ,Europe,2003,119,71,48
+New Zealand                        ,Oceania,2003,90,14,76
+Nicaragua                          ,South America,2003,820,323,497
+Niger                              ,Africa,2003,42,12,30
+Nigeria                            ,Africa,2003,640,328,312
+Norway                             ,Europe,2003,14,6,8
+Pakistan                           ,Asia,2003,977,151,826
+Panama                             ,South America,2003,162,101,61
+Paraguay                           ,South America,2003,35,4,31
+Peru                               ,South America,2003,893,205,688
+Philippines                        ,South America,2003,920,354,566
+Poland                             ,Europe,2003,335,70,265
+Portugal                           ,Europe,2003,108,72,36
+Romania                            ,Europe,2003,154,34,120
+Russia                             ,Europe,2003,212,58,154
+Rwanda                             ,Africa,2003,5,       -,5
+Saint Vincent and the Grenadines     ,South America,2003,24,17,7
+Saudi Arabia                       ,Asia,2003,55,13,42
+Senegal                            ,Africa,2003,110,12,98
+Serbia                             ,Europe,2003,X,X,X
+Serbia and Montenegro 3       ,Europe,2003,106,25,81
+Sierra Leone                       ,Africa,2003,57,30,27
+Singapore                          ,Asia,2003,24,9,15
+Slovakia                           ,Europe,2003,46,0,0
+Slovenia                           ,Europe,2003,7,0,0
+Somalia                            ,Africa,2003,27,7,20
+South Africa                       ,Africa,2003,74,25,49
+"Soviet Union, former               ",Europe,2003,14,5,9
+Spain                              ,Europe,2003,97,46,51
+Sri Lanka                          ,Asia,2003,102,12,90
+Sudan                              ,Africa,2003,42,9,33
+Suriname                           ,Africa,2003,18,5,13
+Sweden                             ,Europe,2003,43,10,33
+Switzerland                        ,Europe,2003,19,6,13
+Syria                              ,Asia,2003,72,17,55
+Taiwan                             ,Asia,2003,83,23,60
+Tajikistan                         ,Asia,2003,0,0,       -
+Tanzania                           ,Africa,2003,35,12,23
+Thailand                           ,Asia,2003,98,30,68
+Togo                               ,Africa,2003,17,3,14
+Tonga                              ,Africa,2003,47,32,15
+Trinidad and Tobago                  ,South America,2003,445,222,223
+Tunisia                            ,Africa,2003,55,13,42
+Turkey                             ,Asia,2003,156,22,134
+Uganda                             ,Africa,2003,28,6,22
+Ukraine                            ,Europe,2003,198,26,172
+United Arab Emirates               ,Asia,2003,8,0,0
+United Kingdom                     ,Europe,2003,540,254,286
+Uruguay                            ,South America,2003,161,27,134
+Uzbekistan                         ,Asia,2003,44,0,0
+Venezuela                          ,South America,2003,303,129,174
+Vietnam                            ,Asia,2003,28,10,18
+Yemen                              ,Asia,2003,67,15,52
+Zambia                             ,Africa,2003,19,5,14
+Zimbabwe                           ,Africa,2003,17,6,11
+Afghanistan                        ,Asia,2004,38,14,24
+Albania                            ,Europe,2004,209,26,183
+Algeria                            ,Africa,2004,54,12,42
+Angola                             ,Africa,2004,13,3,10
+Antigua-Barbuda                    ,South America,2004,36,25,11
+Argentina                          ,South America,2004,648,71,577
+Armenia                            ,Europe,2004,144,38,106
+Australia                          ,Oceania,2004,62,12,50
+Austria                            ,Europe,2004,16,8,8
+Azerbaijan                         ,Asia,2004,9,0,0
+Bahamas                    ,South America,2004,132,95,37
+Bangladesh                         ,Asia,2004,131,21,110
+Barbados                           ,South America,2004,75,68,7
+Belarus                            ,Europe,2004,20,11,9
+Belgium                            ,Europe,2004,38,10,28
+Belize                             ,South America,2004,202,119,83
+Bermuda                            ,South America,2004,3,       -,3
+Bolivia                            ,South America,2004,336,51,285
+Bosnia-Herzegovina                 ,Europe,2004,26,21,5
+Brazil                             ,South America,2004,"6,390",761,"5,629"
+Bulgaria                           ,Europe,2004,84,12,72
+Burkina Faso                       ,Africa,2004,10,0,0
+Burma                              ,Africa,2004,15,3,12
+Cambodia                           ,Asia,2004,70,42,28
+Cameroon                           ,Africa,2004,80,17,63
+Canada                             ,North America,2004,"1,497",520,977
+Cape Verde                         ,Africa,2004,42,31,11
+Chad                               ,Africa,2004,7,       -,7
+Chile                              ,South America,2004,227,73,154
+"China, People's Republic           ",Asia,2004,"1,225",144,"1,081"
+Colombia                           ,South America,2004,"2,725","1,456","1,269"
+"Congo, Democratic Republic         ",Africa,2004,22,0,0
+"Congo, Republic                    ",Africa,2004,24,7,17
+Costa Rica                         ,South America,2004,599,74,525
+Cote d'Ivoire                      ,Africa,2004,35,8,27
+Croatia                            ,Europe,2004,19,7,12
+Cuba                               ,South America,2004,465,67,398
+Czech Republic                     ,Europe,2004,34,5,29
+"Czechoslovakia, former             ",Europe,2004,185,19,166
+Denmark                            ,Europe,2004,14,3,11
+Dominican Republic                 ,South America,2004,"3,760","2,479","1,281"
+Ecuador                            ,South America,2004,"1,116",307,809
+Egypt                              ,Africa,2004,256,59,197
+El Salvador                        ,South America,2004,"7,269","2,805","4,464"
+Eritrea                            ,Africa,2004,13,0,0
+Estonia                            ,Europe,2004,14,4,10
+Ethiopia                           ,Africa,2004,78,15,63
+Fiji                               ,Oceania,2004,65,27,38
+Finland                            ,Europe,2004,4,0,0
+France                             ,Europe,2004,121,36,85
+Gabon                              ,Africa,2004,4,       -,4
+Gambia                      ,Africa,2004,72,16,56
+Georgia                            ,Europe,2004,65,18,47
+Germany                            ,Europe,2004,171,100,71
+Ghana                              ,Africa,2004,299,53,246
+Greece                             ,Europe,2004,36,22,14
+Guatemala                          ,South America,2004,"9,729","2,176","7,553"
+Guinea                             ,South America,2004,92,22,70
+Guyana                             ,South America,2004,388,230,158
+Haiti                              ,South America,2004,878,222,656
+Honduras                           ,South America,2004,"8,752","2,544","6,208"
+Hong Kong                          ,Asia,2004,22,5,17
+Hungary                            ,Europe,2004,99,9,90
+India                              ,Asia,2004,928,131,797
+Indonesia                          ,Asia,2004,361,21,340
+Iran                               ,Asia,2004,64,23,41
+Iraq                               ,Asia,2004,26,3,23
+Ireland                            ,Europe,2004,77,25,52
+Israel                             ,Asia,2004,240,63,177
+Italy                              ,Europe,2004,161,100,61
+Jamaica                            ,South America,2004,"2,541","1,614",927
+Japan                              ,Asia,2004,93,38,55
+Jordan                             ,Asia,2004,207,74,133
+Kazakhstan                         ,Asia,2004,17,       -,17
+Kenya                              ,Africa,2004,129,47,82
+Korea 2 ,Asia,2004,436,156,280
+Kosovo                             ,Europe,2004,X,X,X
+Kuwait                             ,Africa,2004,13,4,9
+Kyrgyzstan                         ,Asia,2004,4,       -,4
+Laos                               ,Asia,2004,14,0,0
+Latvia                             ,Europe,2004,23,5,18
+Lebanon                            ,Africa,2004,172,32,140
+Liberia                            ,Africa,2004,67,40,27
+Lithuania                          ,Europe,2004,74,9,65
+Macedonia                          ,Europe,2004,30,8,22
+Malaysia                           ,Asia,2004,108,15,93
+Mexico                             ,North America,2004,"175,865","71,570","104,295"
+Moldova                            ,Europe,2004,12,4,8
+Mongolia                           ,Asia,2004,42,4,38
+Montenegro                         ,Europe,2004,X,X,X
+Morocco                            ,Asia,2004,128,42,86
+Nepal                              ,Asia,2004,49,4,45
+Netherlands                        ,Europe,2004,88,53,35
+New Zealand                        ,Oceania,2004,38,9,29
+Nicaragua                          ,South America,2004,947,401,546
+Niger                              ,Africa,2004,48,12,36
+Nigeria                            ,Africa,2004,557,279,278
+Norway                             ,Europe,2004,19,6,13
+Pakistan                           ,Asia,2004,650,119,531
+Panama                             ,South America,2004,188,122,66
+Paraguay                           ,South America,2004,62,0,0
+Peru                               ,South America,2004,"1,121",306,815
+Philippines                        ,South America,2004,936,364,572
+Poland                             ,Europe,2004,426,107,319
+Portugal                           ,Europe,2004,120,77,43
+Romania                            ,Europe,2004,144,34,110
+Russia                             ,Europe,2004,223,67,156
+Rwanda                             ,Africa,2004,7,       -,7
+Saint Vincent and the Grenadines     ,South America,2004,44,32,12
+Saudi Arabia                       ,Asia,2004,23,3,20
+Senegal                            ,Africa,2004,121,23,98
+Serbia                             ,Europe,2004,X,X,X
+Serbia and Montenegro 3       ,Europe,2004,117,22,95
+Sierra Leone                       ,Africa,2004,62,22,40
+Singapore                          ,Asia,2004,30,10,20
+Slovakia                           ,Europe,2004,47,7,40
+Slovenia                           ,Europe,2004,14,       -,14
+Somalia                            ,Africa,2004,30,0,0
+South Africa                       ,Africa,2004,72,30,42
+"Soviet Union, former               ",Europe,2004,17,9,8
+Spain                              ,Europe,2004,109,56,53
+Sri Lanka                          ,Asia,2004,94,8,86
+Sudan                              ,Africa,2004,28,11,17
+Suriname                           ,Africa,2004,24,7,17
+Sweden                             ,Europe,2004,29,9,20
+Switzerland                        ,Europe,2004,13,3,10
+Syria                              ,Asia,2004,72,25,47
+Taiwan                             ,Asia,2004,101,31,70
+Tajikistan                         ,Asia,2004,6,       -,6
+Tanzania                           ,Africa,2004,27,9,18
+Thailand                           ,Asia,2004,96,30,66
+Togo                               ,Africa,2004,41,10,31
+Tonga                              ,Africa,2004,50,38,12
+Trinidad and Tobago                  ,South America,2004,457,266,191
+Tunisia                            ,Africa,2004,39,12,27
+Turkey                             ,Asia,2004,149,24,125
+Uganda                             ,Africa,2004,30,8,22
+Ukraine                            ,Europe,2004,245,47,198
+United Arab Emirates               ,Asia,2004,4,0,0
+United Kingdom                     ,Europe,2004,490,254,236
+Uruguay                            ,South America,2004,146,17,129
+Uzbekistan                         ,Asia,2004,73,10,63
+Venezuela                          ,South America,2004,435,119,316
+Vietnam                            ,Asia,2004,33,18,15
+Yemen                              ,Asia,2004,52,12,40
+Zambia                             ,Africa,2004,22,8,14
+Zimbabwe                           ,Africa,2004,23,11,12
+Afghanistan                        ,Asia,2005,37,21,16
+Albania                            ,Europe,2005,236,32,204
+Algeria                            ,Africa,2005,39,9,30
+Angola                             ,Africa,2005,13,       -,13
+Antigua-Barbuda                    ,South America,2005,34,26,8
+Argentina                          ,South America,2005,574,95,479
+Armenia                            ,Europe,2005,120,32,88
+Australia                          ,Oceania,2005,39,11,28
+Austria                            ,Europe,2005,11,0,0
+Azerbaijan                         ,Asia,2005,10,0,0
+Bahamas                    ,South America,2005,153,120,33
+Bangladesh                         ,Asia,2005,145,21,124
+Barbados                           ,South America,2005,65,55,10
+Belarus                            ,Europe,2005,25,6,19
+Belgium                            ,Europe,2005,19,7,12
+Belize                             ,South America,2005,219,118,101
+Bermuda                            ,South America,2005,       -,       -,       -
+Bolivia                            ,South America,2005,303,62,241
+Bosnia-Herzegovina                 ,Europe,2005,23,14,9
+Brazil                             ,South America,2005,"7,097","1,431","5,666"
+Bulgaria                           ,Europe,2005,82,15,67
+Burkina Faso                       ,Africa,2005,11,3,8
+Burma                              ,Africa,2005,12,5,7
+Cambodia                           ,Asia,2005,51,28,23
+Cameroon                           ,Africa,2005,61,8,53
+Canada                             ,North America,2005,"1,561",462,"1,099"
+Cape Verde                         ,Africa,2005,47,38,9
+Chad                               ,Africa,2005,9,0,0
+Chile                              ,South America,2005,225,61,164
+"China, People's Republic           ",Asia,2005,"1,252",147,"1,105"
+Colombia                           ,South America,2005,"2,594","1,367","1,227"
+"Congo, Democratic Republic         ",Africa,2005,18,0,0
+"Congo, Republic                    ",Africa,2005,30,3,27
+Costa Rica                         ,South America,2005,676,82,594
+Cote d'Ivoire                      ,Africa,2005,34,6,28
+Croatia                            ,Europe,2005,11,4,7
+Cuba                               ,South America,2005,730,44,686
+Czech Republic                     ,Europe,2005,30,0,0
+"Czechoslovakia, former             ",Europe,2005,107,10,97
+Denmark                            ,Europe,2005,14,6,8
+Dominican Republic                 ,South America,2005,"3,210","2,308",902
+Ecuador                            ,South America,2005,"1,490",393,"1,097"
+Egypt                              ,Africa,2005,233,47,186
+El Salvador                        ,South America,2005,"8,305","2,827","5,478"
+Eritrea                            ,Africa,2005,12,0,0
+Estonia                            ,Europe,2005,22,4,18
+Ethiopia                           ,Africa,2005,94,19,75
+Fiji                               ,Oceania,2005,74,18,56
+Finland                            ,Europe,2005,8,       -,8
+France                             ,Europe,2005,136,45,91
+Gabon                              ,Africa,2005,3,0,0
+Gambia                      ,Africa,2005,61,16,45
+Georgia                            ,Europe,2005,35,18,17
+Germany                            ,Europe,2005,169,79,90
+Ghana                              ,Africa,2005,218,76,142
+Greece                             ,Europe,2005,50,24,26
+Guatemala                          ,South America,2005,"14,522","2,143","12,379"
+Guinea                             ,South America,2005,92,24,68
+Guyana                             ,South America,2005,396,255,141
+Haiti                              ,South America,2005,"1,204",591,613
+Honduras                           ,South America,2005,"15,572","2,704","12,868"
+Hong Kong                          ,Asia,2005,20,7,13
+Hungary                            ,Europe,2005,110,12,98
+India                              ,Asia,2005,867,139,728
+Indonesia                          ,Asia,2005,375,17,358
+Iran                               ,Asia,2005,52,17,35
+Iraq                               ,Asia,2005,24,8,16
+Ireland                            ,Europe,2005,72,13,59
+Israel                             ,Asia,2005,284,84,200
+Italy                              ,Europe,2005,144,73,71
+Jamaica                            ,South America,2005,"2,023","1,475",548
+Japan                              ,Asia,2005,46,12,34
+Jordan                             ,Asia,2005,223,81,142
+Kazakhstan                         ,Asia,2005,18,3,15
+Kenya                              ,Africa,2005,117,36,81
+Korea 2 ,Asia,2005,405,113,292
+Kosovo                             ,Europe,2005,X,X,X
+Kuwait                             ,Africa,2005,13,5,8
+Kyrgyzstan                         ,Asia,2005,3,0,0
+Laos                               ,Asia,2005,12,4,8
+Latvia                             ,Europe,2005,28,7,21
+Lebanon                            ,Africa,2005,149,38,111
+Liberia                            ,Africa,2005,98,70,28
+Lithuania                          ,Europe,2005,66,16,50
+Macedonia                          ,Europe,2005,33,0,0
+Malaysia                           ,Asia,2005,89,13,76
+Mexico                             ,North America,2005,"169,031","70,779","98,252"
+Moldova                            ,Europe,2005,12,4,8
+Mongolia                           ,Asia,2005,27,0,0
+Montenegro                         ,Europe,2005,X,X,X
+Morocco                            ,Asia,2005,108,35,73
+Nepal                              ,Asia,2005,38,8,30
+Netherlands                        ,Europe,2005,103,65,38
+New Zealand                        ,Oceania,2005,35,13,22
+Nicaragua                          ,South America,2005,"1,292",356,936
+Niger                              ,Africa,2005,34,8,26
+Nigeria                            ,Africa,2005,480,232,248
+Norway                             ,Europe,2005,8,3,5
+Pakistan                           ,Asia,2005,655,104,551
+Panama                             ,South America,2005,187,122,65
+Paraguay                           ,South America,2005,57,11,46
+Peru                               ,South America,2005,"1,220",304,916
+Philippines                        ,South America,2005,755,357,398
+Poland                             ,Europe,2005,449,135,314
+Portugal                           ,Europe,2005,123,78,45
+Romania                            ,Europe,2005,133,27,106
+Russia                             ,Europe,2005,189,54,135
+Rwanda                             ,Africa,2005,15,0,0
+Saint Vincent and the Grenadines     ,South America,2005,44,30,14
+Saudi Arabia                       ,Asia,2005,20,5,15
+Senegal                            ,Africa,2005,91,22,69
+Serbia                             ,Europe,2005,X,X,X
+Serbia and Montenegro 3       ,Europe,2005,145,35,110
+Sierra Leone                       ,Africa,2005,60,16,44
+Singapore                          ,Asia,2005,30,12,18
+Slovakia                           ,Europe,2005,37,5,32
+Slovenia                           ,Europe,2005,8,3,5
+Somalia                            ,Africa,2005,40,5,35
+South Africa                       ,Africa,2005,73,23,50
+"Soviet Union, former               ",Europe,2005,22,14,8
+Spain                              ,Europe,2005,66,29,37
+Sri Lanka                          ,Asia,2005,85,4,81
+Sudan                              ,Africa,2005,17,4,13
+Suriname                           ,Africa,2005,24,6,18
+Sweden                             ,Europe,2005,34,13,21
+Switzerland                        ,Europe,2005,17,5,12
+Syria                              ,Asia,2005,59,15,44
+Taiwan                             ,Asia,2005,68,18,50
+Tajikistan                         ,Asia,2005,4,0,0
+Tanzania                           ,Africa,2005,18,5,13
+Thailand                           ,Asia,2005,75,31,44
+Togo                               ,Africa,2005,27,4,23
+Tonga                              ,Africa,2005,41,34,7
+Trinidad and Tobago                  ,South America,2005,455,307,148
+Tunisia                            ,Africa,2005,39,12,27
+Turkey                             ,Asia,2005,184,26,158
+Uganda                             ,Africa,2005,24,5,19
+Ukraine                            ,Europe,2005,168,47,121
+United Arab Emirates               ,Asia,2005,0,       -,0
+United Kingdom                     ,Europe,2005,431,218,213
+Uruguay                            ,South America,2005,157,23,134
+Uzbekistan                         ,Asia,2005,56,8,48
+Venezuela                          ,South America,2005,398,144,254
+Vietnam                            ,Asia,2005,27,11,16
+Yemen                              ,Asia,2005,76,23,53
+Zambia                             ,Africa,2005,16,6,10
+Zimbabwe                           ,Africa,2005,34,5,29
+Afghanistan                        ,Asia,2006,20,12,8
+Albania                            ,Europe,2006,252,32,220
+Algeria                            ,Africa,2006,41,18,23
+Angola                             ,Africa,2006,16,0,0
+Antigua-Barbuda                    ,South America,2006,40,33,7
+Argentina                          ,South America,2006,457,88,369
+Armenia                            ,Europe,2006,97,27,70
+Australia                          ,Oceania,2006,54,20,34
+Austria                            ,Europe,2006,10,0,0
+Azerbaijan                         ,Asia,2006,6,0,0
+Bahamas                    ,South America,2006,91,68,23
+Bangladesh                         ,Asia,2006,151,22,129
+Barbados                           ,South America,2006,46,41,5
+Belarus                            ,Europe,2006,24,7,17
+Belgium                            ,Europe,2006,14,4,10
+Belize                             ,South America,2006,211,112,99
+Bermuda                            ,South America,2006,0,       -,0
+Bolivia                            ,South America,2006,352,61,291
+Bosnia-Herzegovina                 ,Europe,2006,42,28,14
+Brazil                             ,South America,2006,"4,217",563,"3,654"
+Bulgaria                           ,Europe,2006,64,10,54
+Burkina Faso                       ,Africa,2006,17,3,14
+Burma                              ,Africa,2006,14,       -,14
+Cambodia                           ,Asia,2006,27,11,16
+Cameroon                           ,Africa,2006,60,11,49
+Canada                             ,North America,2006,"1,413",423,990
+Cape Verde                         ,Africa,2006,37,30,7
+Chad                               ,Africa,2006,0,0,       -
+Chile                              ,South America,2006,245,60,185
+"China, People's Republic           ",Asia,2006,"1,362",132,"1,230"
+Colombia                           ,South America,2006,"2,788","1,307","1,481"
+"Congo, Democratic Republic         ",Africa,2006,23,7,16
+"Congo, Republic                    ",Africa,2006,26,3,23
+Costa Rica                         ,South America,2006,795,100,695
+Cote d'Ivoire                      ,Africa,2006,41,8,33
+Croatia                            ,Europe,2006,15,5,10
+Cuba                               ,South America,2006,124,39,85
+Czech Republic                     ,Europe,2006,34,0,0
+"Czechoslovakia, former             ",Europe,2006,68,16,52
+Denmark                            ,Europe,2006,8,0,0
+Dominican Republic                 ,South America,2006,"3,107","2,206",901
+Ecuador                            ,South America,2006,"1,750",470,"1,280"
+Egypt                              ,Africa,2006,172,30,142
+El Salvador                        ,South America,2006,"11,050","3,850","7,200"
+Eritrea                            ,Africa,2006,10,3,7
+Estonia                            ,Europe,2006,23,4,19
+Ethiopia                           ,Africa,2006,105,48,57
+Fiji                               ,Oceania,2006,47,19,28
+Finland                            ,Europe,2006,6,0,0
+France                             ,Europe,2006,124,35,89
+Gabon                              ,Africa,2006,0,0,       -
+Gambia                      ,Africa,2006,43,7,36
+Georgia                            ,Europe,2006,42,7,35
+Germany                            ,Europe,2006,158,61,97
+Ghana                              ,Africa,2006,187,69,118
+Greece                             ,Europe,2006,35,19,16
+Guatemala                          ,South America,2006,"20,527","3,850","16,677"
+Guinea                             ,South America,2006,78,18,60
+Guyana                             ,South America,2006,289,174,115
+Haiti                              ,South America,2006,907,290,617
+Honduras                           ,South America,2006,"27,060","5,752","21,308"
+Hong Kong                          ,Asia,2006,15,8,7
+Hungary                            ,Europe,2006,75,14,61
+India                              ,Asia,2006,"1,048",150,898
+Indonesia                          ,Asia,2006,388,22,366
+Iran                               ,Asia,2006,59,16,43
+Iraq                               ,Asia,2006,21,4,17
+Ireland                            ,Europe,2006,54,11,43
+Israel                             ,Asia,2006,197,53,144
+Italy                              ,Europe,2006,144,78,66
+Jamaica                            ,South America,2006,"1,662","1,234",428
+Japan                              ,Asia,2006,53,10,43
+Jordan                             ,Asia,2006,190,75,115
+Kazakhstan                         ,Asia,2006,15,3,12
+Kenya                              ,Africa,2006,97,36,61
+Korea 2 ,Asia,2006,452,115,337
+Kosovo                             ,Europe,2006,X,X,X
+Kuwait                             ,Africa,2006,6,0,0
+Kyrgyzstan                         ,Asia,2006,0,0,0
+Laos                               ,Asia,2006,12,0,0
+Latvia                             ,Europe,2006,19,4,15
+Lebanon                            ,Africa,2006,154,36,118
+Liberia                            ,Africa,2006,64,39,25
+Lithuania                          ,Europe,2006,63,15,48
+Macedonia                          ,Europe,2006,38,7,31
+Malaysia                           ,Asia,2006,66,8,58
+Mexico                             ,North America,2006,"186,726","73,171","113,555"
+Moldova                            ,Europe,2006,12,6,6
+Mongolia                           ,Asia,2006,48,4,44
+Montenegro                         ,Europe,2006,X,X,X
+Morocco                            ,Asia,2006,90,26,64
+Nepal                              ,Asia,2006,30,8,22
+Netherlands                        ,Europe,2006,89,47,42
+New Zealand                        ,Oceania,2006,32,11,21
+Nicaragua                          ,South America,2006,"2,446",592,"1,854"
+Niger                              ,Africa,2006,30,8,22
+Nigeria                            ,Africa,2006,418,202,216
+Norway                             ,Europe,2006,15,5,10
+Pakistan                           ,Asia,2006,567,94,473
+Panama                             ,South America,2006,209,114,95
+Paraguay                           ,South America,2006,59,6,53
+Peru                               ,South America,2006,"1,338",314,"1,024"
+Philippines                        ,South America,2006,658,260,398
+Poland                             ,Europe,2006,450,116,334
+Portugal                           ,Europe,2006,146,93,53
+Romania                            ,Europe,2006,188,53,135
+Russia                             ,Europe,2006,169,44,125
+Rwanda                             ,Africa,2006,3,0,0
+Saint Vincent and the Grenadines     ,South America,2006,21,14,7
+Saudi Arabia                       ,Asia,2006,23,4,19
+Senegal                            ,Africa,2006,124,23,101
+Serbia                             ,Europe,2006,X,X,X
+Serbia and Montenegro 3       ,Europe,2006,105,29,76
+Sierra Leone                       ,Africa,2006,35,15,20
+Singapore                          ,Asia,2006,16,3,13
+Slovakia                           ,Europe,2006,35,5,30
+Slovenia                           ,Europe,2006,3,0,0
+Somalia                            ,Africa,2006,39,5,34
+South Africa                       ,Africa,2006,69,24,45
+"Soviet Union, former               ",Europe,2006,8,5,3
+Spain                              ,Europe,2006,59,25,34
+Sri Lanka                          ,Asia,2006,82,6,76
+Sudan                              ,Africa,2006,22,5,17
+Suriname                           ,Africa,2006,21,7,14
+Sweden                             ,Europe,2006,25,8,17
+Switzerland                        ,Europe,2006,15,10,5
+Syria                              ,Asia,2006,70,21,49
+Taiwan                             ,Asia,2006,86,9,77
+Tajikistan                         ,Asia,2006,0,       -,0
+Tanzania                           ,Africa,2006,20,5,15
+Thailand                           ,Asia,2006,73,16,57
+Togo                               ,Africa,2006,23,7,16
+Tonga                              ,Africa,2006,32,23,9
+Trinidad and Tobago                  ,South America,2006,398,248,150
+Tunisia                            ,Africa,2006,33,8,25
+Turkey                             ,Asia,2006,158,25,133
+Uganda                             ,Africa,2006,26,7,19
+Ukraine                            ,Europe,2006,174,48,126
+United Arab Emirates               ,Asia,2006,10,       -,10
+United Kingdom                     ,Europe,2006,385,195,190
+Uruguay                            ,South America,2006,142,19,123
+Uzbekistan                         ,Asia,2006,48,5,43
+Venezuela                          ,South America,2006,444,130,314
+Vietnam                            ,Asia,2006,41,19,22
+Yemen                              ,Asia,2006,47,16,31
+Zambia                             ,Africa,2006,14,7,7
+Zimbabwe                           ,Africa,2006,26,12,14
+Afghanistan                        ,Asia,2007,27,11,16
+Albania                            ,Europe,2007,246,23,223
+Algeria                            ,Africa,2007,27,6,21
+Angola                             ,Africa,2007,17,3,14
+Antigua-Barbuda                    ,South America,2007,45,37,8
+Argentina                          ,South America,2007,395,76,319
+Armenia                            ,Europe,2007,74,34,40
+Australia                          ,Oceania,2007,52,21,31
+Austria                            ,Europe,2007,13,8,5
+Azerbaijan                         ,Asia,2007,8,0,0
+Bahamas                    ,South America,2007,97,72,25
+Bangladesh                         ,Asia,2007,138,25,113
+Barbados                           ,South America,2007,40,33,7
+Belarus                            ,Europe,2007,21,4,17
+Belgium                            ,Europe,2007,17,4,13
+Belize                             ,South America,2007,233,116,117
+Bermuda                            ,South America,2007,0,       -,0
+Bolivia                            ,South America,2007,382,37,345
+Bosnia-Herzegovina                 ,Europe,2007,42,29,13
+Brazil                             ,South America,2007,"4,210",352,"3,858"
+Bulgaria                           ,Europe,2007,80,23,57
+Burkina Faso                       ,Africa,2007,13,4,9
+Burma                              ,Africa,2007,22,0,0
+Cambodia                           ,Asia,2007,29,17,12
+Cameroon                           ,Africa,2007,63,10,53
+Canada                             ,North America,2007,"1,263",411,852
+Cape Verde                         ,Africa,2007,61,50,11
+Chad                               ,Africa,2007,3,0,0
+Chile                              ,South America,2007,237,73,164
+"China, People's Republic           ",Asia,2007,864,97,767
+Colombia                           ,South America,2007,"2,993","1,191","1,802"
+"Congo, Democratic Republic         ",Africa,2007,17,4,13
+"Congo, Republic                    ",Africa,2007,17,5,12
+Costa Rica                         ,South America,2007,655,88,567
+Cote d'Ivoire                      ,Africa,2007,30,4,26
+Croatia                            ,Europe,2007,13,6,7
+Cuba                               ,South America,2007,76,26,50
+Czech Republic                     ,Europe,2007,41,8,33
+"Czechoslovakia, former             ",Europe,2007,52,12,40
+Denmark                            ,Europe,2007,14,3,11
+Dominican Republic                 ,South America,2007,"2,990","2,044",946
+Ecuador                            ,South America,2007,"1,564",392,"1,172"
+Egypt                              ,Africa,2007,145,29,116
+El Salvador                        ,South America,2007,"20,045","4,949","15,096"
+Eritrea                            ,Africa,2007,11,6,5
+Estonia                            ,Europe,2007,21,8,13
+Ethiopia                           ,Africa,2007,150,78,72
+Fiji                               ,Oceania,2007,45,21,24
+Finland                            ,Europe,2007,0,       -,0
+France                             ,Europe,2007,100,22,78
+Gabon                              ,Africa,2007,4,0,0
+Gambia                      ,Africa,2007,35,10,25
+Georgia                            ,Europe,2007,53,17,36
+Germany                            ,Europe,2007,165,60,105
+Ghana                              ,Africa,2007,231,88,143
+Greece                             ,Europe,2007,30,13,17
+Guatemala                          ,South America,2007,"25,898","3,917","21,981"
+Guinea                             ,South America,2007,66,20,46
+Guyana                             ,South America,2007,293,191,102
+Haiti                              ,South America,2007,"1,492",519,973
+Honduras                           ,South America,2007,"29,737","5,236","24,501"
+Hong Kong                          ,Asia,2007,28,4,24
+Hungary                            ,Europe,2007,85,10,75
+India                              ,Asia,2007,832,125,707
+Indonesia                          ,Asia,2007,434,39,395
+Iran                               ,Asia,2007,48,9,39
+Iraq                               ,Asia,2007,27,3,24
+Ireland                            ,Europe,2007,57,20,37
+Israel                             ,Asia,2007,246,53,193
+Italy                              ,Europe,2007,158,69,89
+Jamaica                            ,South America,2007,"1,490","1,139",351
+Japan                              ,Asia,2007,38,11,27
+Jordan                             ,Asia,2007,212,65,147
+Kazakhstan                         ,Asia,2007,19,0,0
+Kenya                              ,Africa,2007,126,43,83
+Korea 2 ,Asia,2007,417,123,294
+Kosovo                             ,Europe,2007,X,X,X
+Kuwait                             ,Africa,2007,7,       -,7
+Kyrgyzstan                         ,Asia,2007,4,0,0
+Laos                               ,Asia,2007,19,0,0
+Latvia                             ,Europe,2007,19,3,16
+Lebanon                            ,Africa,2007,128,33,95
+Liberia                            ,Africa,2007,69,43,26
+Lithuania                          ,Europe,2007,77,14,63
+Macedonia                          ,Europe,2007,34,8,26
+Malaysia                           ,Asia,2007,65,21,44
+Mexico                             ,North America,2007,"208,996","76,967","132,029"
+Moldova                            ,Europe,2007,16,6,10
+Mongolia                           ,Asia,2007,46,6,40
+Montenegro                         ,Europe,2007,       -,       -,       -
+Morocco                            ,Asia,2007,88,27,61
+Nepal                              ,Asia,2007,43,5,38
+Netherlands                        ,Europe,2007,75,36,39
+New Zealand                        ,Oceania,2007,35,13,22
+Nicaragua                          ,South America,2007,"2,307",508,"1,799"
+Niger                              ,Africa,2007,40,20,20
+Nigeria                            ,Africa,2007,435,241,194
+Norway                             ,Europe,2007,9,4,5
+Pakistan                           ,Asia,2007,545,112,433
+Panama                             ,South America,2007,185,99,86
+Paraguay                           ,South America,2007,49,6,43
+Peru                               ,South America,2007,"1,208",295,913
+Philippines                        ,South America,2007,697,278,419
+Poland                             ,Europe,2007,410,112,298
+Portugal                           ,Europe,2007,124,80,44
+Romania                            ,Europe,2007,200,39,161
+Russia                             ,Europe,2007,188,49,139
+Rwanda                             ,Africa,2007,6,0,0
+Saint Vincent and the Grenadines     ,South America,2007,26,15,11
+Saudi Arabia                       ,Asia,2007,31,5,26
+Senegal                            ,Africa,2007,79,15,64
+Serbia                             ,Europe,2007,       -,       -,       -
+Serbia and Montenegro 3       ,Europe,2007,137,32,105
+Sierra Leone                       ,Africa,2007,51,16,35
+Singapore                          ,Asia,2007,16,5,11
+Slovakia                           ,Europe,2007,44,6,38
+Slovenia                           ,Europe,2007,9,0,0
+Somalia                            ,Africa,2007,19,3,16
+South Africa                       ,Africa,2007,45,13,32
+"Soviet Union, former               ",Europe,2007,5,0,0
+Spain                              ,Europe,2007,65,25,40
+Sri Lanka                          ,Asia,2007,60,6,54
+Sudan                              ,Africa,2007,13,5,8
+Suriname                           ,Africa,2007,12,6,6
+Sweden                             ,Europe,2007,35,10,25
+Switzerland                        ,Europe,2007,16,4,12
+Syria                              ,Asia,2007,40,7,33
+Taiwan                             ,Asia,2007,126,15,111
+Tajikistan                         ,Asia,2007,0,       -,0
+Tanzania                           ,Africa,2007,23,8,15
+Thailand                           ,Asia,2007,91,13,78
+Togo                               ,Africa,2007,23,7,16
+Tonga                              ,Africa,2007,32,23,9
+Trinidad and Tobago                  ,South America,2007,363,234,129
+Tunisia                            ,Africa,2007,23,5,18
+Turkey                             ,Asia,2007,155,35,120
+Uganda                             ,Africa,2007,31,7,24
+Ukraine                            ,Europe,2007,162,36,126
+United Arab Emirates               ,Asia,2007,5,       -,5
+United Kingdom                     ,Europe,2007,378,162,216
+Uruguay                            ,South America,2007,163,31,132
+Uzbekistan                         ,Asia,2007,46,7,39
+Venezuela                          ,South America,2007,482,124,358
+Vietnam                            ,Asia,2007,27,9,18
+Yemen                              ,Asia,2007,64,17,47
+Zambia                             ,Africa,2007,25,13,12
+Zimbabwe                           ,Africa,2007,29,0,0
+Afghanistan                        ,Asia,2008,31,11,20
+Albania                            ,Europe,2008,331,34,297
+Algeria                            ,Africa,2008,21,4,17
+Angola                             ,Africa,2008,17,0,0
+Antigua-Barbuda                    ,South America,2008,28,23,5
+Argentina                          ,South America,2008,390,84,306
+Armenia                            ,Europe,2008,86,43,43
+Australia                          ,Oceania,2008,47,14,33
+Austria                            ,Europe,2008,18,3,15
+Azerbaijan                         ,Asia,2008,9,0,0
+Bahamas                    ,South America,2008,105,82,23
+Bangladesh                         ,Asia,2008,115,17,98
+Barbados                           ,South America,2008,44,39,5
+Belarus                            ,Europe,2008,25,9,16
+Belgium                            ,Europe,2008,21,0,0
+Belize                             ,South America,2008,213,109,104
+Bermuda                            ,South America,2008,9,3,6
+Bolivia                            ,South America,2008,276,54,222
+Bosnia-Herzegovina                 ,Europe,2008,45,31,14
+Brazil                             ,South America,2008,"3,836",368,"3,468"
+Bulgaria                           ,Europe,2008,77,11,66
+Burkina Faso                       ,Africa,2008,18,6,12
+Burma                              ,Africa,2008,10,0,0
+Cambodia                           ,Asia,2008,40,22,18
+Cameroon                           ,Africa,2008,66,12,54
+Canada                             ,North America,2008,"1,302",347,955
+Cape Verde                         ,Africa,2008,35,26,9
+Chad                               ,Africa,2008,7,       -,7
+Chile                              ,South America,2008,211,68,143
+"China, People's Republic           ",Asia,2008,877,188,689
+Colombia                           ,South America,2008,"2,590","1,081","1,509"
+"Congo, Democratic Republic         ",Africa,2008,32,5,27
+"Congo, Republic                    ",Africa,2008,22,5,17
+Costa Rica                         ,South America,2008,692,132,560
+Cote d'Ivoire                      ,Africa,2008,43,10,33
+Croatia                            ,Europe,2008,24,9,15
+Cuba                               ,South America,2008,65,32,33
+Czech Republic                     ,Europe,2008,52,13,39
+"Czechoslovakia, former             ",Europe,2008,55,12,43
+Denmark                            ,Europe,2008,17,0,0
+Dominican Republic                 ,South America,2008,"3,232","2,046","1,186"
+Ecuador                            ,South America,2008,"2,330",532,"1,798"
+Egypt                              ,Africa,2008,166,37,129
+El Salvador                        ,South America,2008,"20,050","5,558","14,492"
+Eritrea                            ,Africa,2008,10,4,6
+Estonia                            ,Europe,2008,25,5,20
+Ethiopia                           ,Africa,2008,87,32,55
+Fiji                               ,Oceania,2008,71,26,45
+Finland                            ,Europe,2008,11,4,7
+France                             ,Europe,2008,153,29,124
+Gabon                              ,Africa,2008,3,0,0
+Gambia                      ,Africa,2008,26,7,19
+Georgia                            ,Europe,2008,55,15,40
+Germany                            ,Europe,2008,178,63,115
+Ghana                              ,Africa,2008,202,61,141
+Greece                             ,Europe,2008,50,23,27
+Guatemala                          ,South America,2008,"27,527","5,138","22,389"
+Guinea                             ,South America,2008,74,16,58
+Guyana                             ,South America,2008,284,188,96
+Haiti                              ,South America,2008,"1,584",416,"1,168"
+Honduras                           ,South America,2008,"28,885","5,476","23,409"
+Hong Kong                          ,Asia,2008,23,6,17
+Hungary                            ,Europe,2008,95,19,76
+India                              ,Asia,2008,932,164,768
+Indonesia                          ,Asia,2008,489,68,421
+Iran                               ,Asia,2008,40,11,29
+Iraq                               ,Asia,2008,37,7,30
+Ireland                            ,Europe,2008,79,19,60
+Israel                             ,Asia,2008,258,41,217
+Italy                              ,Europe,2008,215,74,141
+Jamaica                            ,South America,2008,"1,628","1,214",414
+Japan                              ,Asia,2008,88,17,71
+Jordan                             ,Asia,2008,161,45,116
+Kazakhstan                         ,Asia,2008,25,7,18
+Kenya                              ,Africa,2008,140,44,96
+Korea 2 ,Asia,2008,421,117,304
+Kosovo                             ,Europe,2008,       -,       -,       -
+Kuwait                             ,Africa,2008,10,       -,10
+Kyrgyzstan                         ,Asia,2008,10,3,7
+Laos                               ,Asia,2008,20,5,15
+Latvia                             ,Europe,2008,23,7,16
+Lebanon                            ,Africa,2008,108,24,84
+Liberia                            ,Africa,2008,26,10,16
+Lithuania                          ,Europe,2008,69,13,56
+Macedonia                          ,Europe,2008,60,8,52
+Malaysia                           ,Asia,2008,52,11,41
+Mexico                             ,North America,2008,"247,263","77,531","169,732"
+Moldova                            ,Europe,2008,45,9,36
+Mongolia                           ,Asia,2008,50,10,40
+Montenegro                         ,Europe,2008,       -,       -,       -
+Morocco                            ,Asia,2008,61,31,30
+Nepal                              ,Asia,2008,46,8,38
+Netherlands                        ,Europe,2008,93,29,64
+New Zealand                        ,Oceania,2008,39,13,26
+Nicaragua                          ,South America,2008,"2,257",533,"1,724"
+Niger                              ,Africa,2008,39,7,32
+Nigeria                            ,Africa,2008,435,209,226
+Norway                             ,Europe,2008,20,4,16
+Pakistan                           ,Asia,2008,383,74,309
+Panama                             ,South America,2008,190,99,91
+Paraguay                           ,South America,2008,40,5,35
+Peru                               ,South America,2008,"1,275",337,938
+Philippines                        ,South America,2008,689,280,409
+Poland                             ,Europe,2008,498,115,383
+Portugal                           ,Europe,2008,158,87,71
+Romania                            ,Europe,2008,216,50,166
+Russia                             ,Europe,2008,238,68,170
+Rwanda                             ,Africa,2008,7,3,4
+Saint Vincent and the Grenadines     ,South America,2008,23,12,11
+Saudi Arabia                       ,Asia,2008,32,11,21
+Senegal                            ,Africa,2008,87,20,67
+Serbia                             ,Europe,2008,       -,       -,       -
+Serbia and Montenegro 3       ,Europe,2008,165,30,135
+Sierra Leone                       ,Africa,2008,27,7,20
+Singapore                          ,Asia,2008,21,3,18
+Slovakia                           ,Europe,2008,35,6,29
+Slovenia                           ,Europe,2008,4,       -,4
+Somalia                            ,Africa,2008,23,0,0
+South Africa                       ,Africa,2008,59,18,41
+"Soviet Union, former               ",Europe,2008,14,6,8
+Spain                              ,Europe,2008,94,27,67
+Sri Lanka                          ,Asia,2008,113,9,104
+Sudan                              ,Africa,2008,15,4,11
+Suriname                           ,Africa,2008,14,4,10
+Sweden                             ,Europe,2008,38,7,31
+Switzerland                        ,Europe,2008,20,5,15
+Syria                              ,Asia,2008,46,9,37
+Taiwan                             ,Asia,2008,81,24,57
+Tajikistan                         ,Asia,2008,10,3,7
+Tanzania                           ,Africa,2008,41,12,29
+Thailand                           ,Asia,2008,102,20,82
+Togo                               ,Africa,2008,30,4,26
+Tonga                              ,Africa,2008,38,27,11
+Trinidad and Tobago                  ,South America,2008,478,273,205
+Tunisia                            ,Africa,2008,38,9,29
+Turkey                             ,Asia,2008,183,33,150
+Uganda                             ,Africa,2008,28,10,18
+Ukraine                            ,Europe,2008,182,62,120
+United Arab Emirates               ,Asia,2008,5,       -,5
+United Kingdom                     ,Europe,2008,479,179,300
+Uruguay                            ,South America,2008,173,49,124
+Uzbekistan                         ,Asia,2008,56,9,47
+Venezuela                          ,South America,2008,412,120,292
+Vietnam                            ,Asia,2008,30,8,22
+Yemen                              ,Asia,2008,44,10,34
+Zambia                             ,Africa,2008,20,7,13
+Zimbabwe                           ,Africa,2008,43,3,40
+Afghanistan                        ,Asia,2009,18,6,12
+Albania                            ,Europe,2009,296,42,254
+Algeria                            ,Africa,2009,27,3,24
+Angola                             ,Africa,2009,20,0,0
+Antigua-Barbuda                    ,South America,2009,43,28,15
+Argentina                          ,South America,2009,448,106,342
+Armenia                            ,Europe,2009,96,29,67
+Australia                          ,Oceania,2009,83,19,64
+Austria                            ,Europe,2009,20,0,0
+Azerbaijan                         ,Asia,2009,7,0,0
+Bahamas                    ,South America,2009,143,99,44
+Bangladesh                         ,Asia,2009,104,17,87
+Barbados                           ,South America,2009,48,36,12
+Belarus                            ,Europe,2009,36,11,25
+Belgium                            ,Europe,2009,27,3,24
+Belize                             ,South America,2009,243,126,117
+Bermuda                            ,South America,2009,15,9,6
+Bolivia                            ,South America,2009,282,54,228
+Bosnia-Herzegovina                 ,Europe,2009,57,49,8
+Brazil                             ,South America,2009,"3,726",388,"3,338"
+Bulgaria                           ,Europe,2009,82,14,68
+Burkina Faso                       ,Africa,2009,11,5,6
+Burma                              ,Africa,2009,5,0,0
+Cambodia                           ,Asia,2009,46,28,18
+Cameroon                           ,Africa,2009,55,10,45
+Canada                             ,North America,2009,"1,329",418,911
+Cape Verde                         ,Africa,2009,49,42,7
+Chad                               ,Africa,2009,6,       -,6
+Chile                              ,South America,2009,205,70,135
+"China, People's Republic           ",Asia,2009,970,135,835
+Colombia                           ,South America,2009,"2,720","1,124","1,596"
+"Congo, Democratic Republic         ",Africa,2009,17,6,11
+"Congo, Republic                    ",Africa,2009,21,4,17
+Costa Rica                         ,South America,2009,696,123,573
+Cote d'Ivoire                      ,Africa,2009,24,4,20
+Croatia                            ,Europe,2009,23,7,16
+Cuba                               ,South America,2009,130,86,44
+Czech Republic                     ,Europe,2009,66,17,49
+"Czechoslovakia, former             ",Europe,2009,48,5,43
+Denmark                            ,Europe,2009,31,5,26
+Dominican Republic                 ,South America,2009,"3,580","2,207","1,373"
+Ecuador                            ,South America,2009,"2,383",602,"1,781"
+Egypt                              ,Africa,2009,157,36,121
+El Salvador                        ,South America,2009,"20,849","6,344","14,505"
+Eritrea                            ,Africa,2009,3,0,0
+Estonia                            ,Europe,2009,26,8,18
+Ethiopia                           ,Africa,2009,76,18,58
+Fiji                               ,Oceania,2009,54,24,30
+Finland                            ,Europe,2009,10,       -,10
+France                             ,Europe,2009,236,24,212
+Gabon                              ,Africa,2009,7,0,0
+Gambia                      ,Africa,2009,28,7,21
+Georgia                            ,Europe,2009,72,23,49
+Germany                            ,Europe,2009,204,53,151
+Ghana                              ,Africa,2009,231,60,171
+Greece                             ,Europe,2009,48,18,30
+Guatemala                          ,South America,2009,"29,652","6,547","23,105"
+Guinea                             ,South America,2009,61,14,47
+Guyana                             ,South America,2009,305,216,89
+Haiti                              ,South America,2009,766,473,293
+Honduras                           ,South America,2009,"27,290","6,998","20,292"
+Hong Kong                          ,Asia,2009,25,9,16
+Hungary                            ,Europe,2009,131,19,112
+India                              ,Asia,2009,"1,050",186,864
+Indonesia                          ,Asia,2009,431,42,389
+Iran                               ,Asia,2009,55,15,40
+Iraq                               ,Asia,2009,34,16,18
+Ireland                            ,Europe,2009,129,19,110
+Israel                             ,Asia,2009,415,50,365
+Italy                              ,Europe,2009,244,61,183
+Jamaica                            ,South America,2009,"1,664","1,246",418
+Japan                              ,Asia,2009,87,12,75
+Jordan                             ,Asia,2009,214,66,148
+Kazakhstan                         ,Asia,2009,34,9,25
+Kenya                              ,Africa,2009,175,70,105
+Korea 2 ,Asia,2009,395,129,266
+Kosovo                             ,Europe,2009,14,4,10
+Kuwait                             ,Africa,2009,14,0,0
+Kyrgyzstan                         ,Asia,2009,11,0,0
+Laos                               ,Asia,2009,21,0,0
+Latvia                             ,Europe,2009,30,4,26
+Lebanon                            ,Africa,2009,144,35,109
+Liberia                            ,Africa,2009,51,22,29
+Lithuania                          ,Europe,2009,72,14,58
+Macedonia                          ,Europe,2009,49,11,38
+Malaysia                           ,Asia,2009,59,15,44
+Mexico                             ,North America,2009,"278,568","99,616","178,952"
+Moldova                            ,Europe,2009,44,14,30
+Mongolia                           ,Asia,2009,48,9,39
+Montenegro                         ,Europe,2009,       -,       -,       -
+Morocco                            ,Asia,2009,95,48,47
+Nepal                              ,Asia,2009,55,11,44
+Netherlands                        ,Europe,2009,129,29,100
+New Zealand                        ,Oceania,2009,35,6,29
+Nicaragua                          ,South America,2009,"2,175",620,"1,555"
+Niger                              ,Africa,2009,31,9,22
+Nigeria                            ,Africa,2009,425,222,203
+Norway                             ,Europe,2009,30,0,0
+Pakistan                           ,Asia,2009,362,73,289
+Panama                             ,South America,2009,199,81,118
+Paraguay                           ,South America,2009,47,4,43
+Peru                               ,South America,2009,"1,284",365,919
+Philippines                        ,South America,2009,748,269,479
+Poland                             ,Europe,2009,601,135,466
+Portugal                           ,Europe,2009,206,92,114
+Romania                            ,Europe,2009,153,34,119
+Russia                             ,Europe,2009,263,61,202
+Rwanda                             ,Africa,2009,10,0,0
+Saint Vincent and the Grenadines     ,South America,2009,32,16,16
+Saudi Arabia                       ,Asia,2009,18,6,12
+Senegal                            ,Africa,2009,88,24,64
+Serbia                             ,Europe,2009,       -,       -,       -
+Serbia and Montenegro 3       ,Europe,2009,101,24,77
+Sierra Leone                       ,Africa,2009,17,4,13
+Singapore                          ,Asia,2009,23,8,15
+Slovakia                           ,Europe,2009,42,7,35
+Slovenia                           ,Europe,2009,7,0,0
+Somalia                            ,Africa,2009,32,6,26
+South Africa                       ,Africa,2009,53,15,38
+"Soviet Union, former               ",Europe,2009,5,0,0
+Spain                              ,Europe,2009,156,21,135
+Sri Lanka                          ,Asia,2009,100,4,96
+Sudan                              ,Africa,2009,21,10,11
+Suriname                           ,Africa,2009,17,7,10
+Sweden                             ,Europe,2009,65,8,57
+Switzerland                        ,Europe,2009,22,0,0
+Syria                              ,Asia,2009,34,12,22
+Taiwan                             ,Asia,2009,86,14,72
+Tajikistan                         ,Asia,2009,14,0,0
+Tanzania                           ,Africa,2009,42,15,27
+Thailand                           ,Asia,2009,106,25,81
+Togo                               ,Africa,2009,28,14,14
+Tonga                              ,Africa,2009,31,23,8
+Trinidad and Tobago                  ,South America,2009,485,258,227
+Tunisia                            ,Africa,2009,15,3,12
+Turkey                             ,Asia,2009,149,18,131
+Uganda                             ,Africa,2009,31,13,18
+Ukraine                            ,Europe,2009,192,55,137
+United Arab Emirates               ,Asia,2009,0,       -,0
+United Kingdom                     ,Europe,2009,719,201,518
+Uruguay                            ,South America,2009,171,52,119
+Uzbekistan                         ,Asia,2009,89,5,84
+Venezuela                          ,South America,2009,502,130,372
+Vietnam                            ,Asia,2009,53,29,24
+Yemen                              ,Asia,2009,53,14,39
+Zambia                             ,Africa,2009,16,7,9
+Zimbabwe                           ,Africa,2009,28,3,25
+Afghanistan                        ,Asia,2010,17,5,12
+Albania                            ,Europe,2010,238,51,187
+Algeria                            ,Africa,2010,16,0,0
+Angola                             ,Africa,2010,10,0,0
+Antigua-Barbuda                    ,South America,2010,24,18,6
+Argentina                          ,South America,2010,351,121,230
+Armenia                            ,Europe,2010,85,31,54
+Australia                          ,Oceania,2010,69,30,39
+Austria                            ,Europe,2010,19,7,12
+Azerbaijan                         ,Asia,2010,5,0,0
+Bahamas                    ,South America,2010,107,89,18
+Bangladesh                         ,Asia,2010,96,24,72
+Barbados                           ,South America,2010,44,34,10
+Belarus                            ,Europe,2010,26,10,16
+Belgium                            ,Europe,2010,31,7,24
+Belize                             ,South America,2010,254,157,97
+Bermuda                            ,South America,2010,13,8,5
+Bolivia                            ,South America,2010,220,67,153
+Bosnia-Herzegovina                 ,Europe,2010,61,50,11
+Brazil                             ,South America,2010,"3,535",487,"3,048"
+Bulgaria                           ,Europe,2010,77,17,60
+Burkina Faso                       ,Africa,2010,8,3,5
+Burma                              ,Africa,2010,13,0,0
+Cambodia                           ,Asia,2010,43,25,18
+Cameroon                           ,Africa,2010,71,19,52
+Canada                             ,North America,2010,"1,345",457,888
+Cape Verde                         ,Africa,2010,47,36,11
+Chad                               ,Africa,2010,10,0,0
+Chile                              ,South America,2010,186,95,91
+"China, People's Republic           ",Asia,2010,"1,068",166,902
+Colombia                           ,South America,2010,"2,409","1,241","1,168"
+"Congo, Democratic Republic         ",Africa,2010,12,4,8
+"Congo, Republic                    ",Africa,2010,23,0,0
+Costa Rica                         ,South America,2010,555,157,398
+Cote d'Ivoire                      ,Africa,2010,31,4,27
+Croatia                            ,Europe,2010,23,7,16
+Cuba                               ,South America,2010,108,73,35
+Czech Republic                     ,Europe,2010,78,19,59
+"Czechoslovakia, former             ",Europe,2010,29,6,23
+Denmark                            ,Europe,2010,27,4,23
+Dominican Republic                 ,South America,2010,"3,373","2,241","1,132"
+Ecuador                            ,South America,2010,"2,386",692,"1,694"
+Egypt                              ,Africa,2010,124,40,84
+El Salvador                        ,South America,2010,"20,361","8,368","11,993"
+Eritrea                            ,Africa,2010,7,       -,7
+Estonia                            ,Europe,2010,24,3,21
+Ethiopia                           ,Africa,2010,79,30,49
+Fiji                               ,Oceania,2010,63,29,34
+Finland                            ,Europe,2010,17,0,0
+France                             ,Europe,2010,194,41,153
+Gabon                              ,Africa,2010,4,0,0
+Gambia                      ,Africa,2010,27,8,19
+Georgia                            ,Europe,2010,59,21,38
+Germany                            ,Europe,2010,201,84,117
+Ghana                              ,Africa,2010,199,65,134
+Greece                             ,Europe,2010,41,22,19
+Guatemala                          ,South America,2010,"29,736","9,432","20,304"
+Guinea                             ,South America,2010,26,6,20
+Guyana                             ,South America,2010,221,167,54
+Haiti                              ,South America,2010,500,126,374
+Honduras                           ,South America,2010,"25,131","10,420","14,711"
+Hong Kong                          ,Asia,2010,33,12,21
+Hungary                            ,Europe,2010,89,10,79
+India                              ,Asia,2010,960,177,783
+Indonesia                          ,Asia,2010,361,43,318
+Iran                               ,Asia,2010,74,15,59
+Iraq                               ,Asia,2010,59,35,24
+Ireland                            ,Europe,2010,107,21,86
+Israel                             ,Asia,2010,327,55,272
+Italy                              ,Europe,2010,201,62,139
+Jamaica                            ,South America,2010,"1,487","1,169",318
+Japan                              ,Asia,2010,46,16,30
+Jordan                             ,Asia,2010,137,58,79
+Kazakhstan                         ,Asia,2010,41,6,35
+Kenya                              ,Africa,2010,172,56,116
+Korea 2 ,Asia,2010,358,156,202
+Kosovo                             ,Europe,2010,22,8,14
+Kuwait                             ,Africa,2010,8,0,0
+Kyrgyzstan                         ,Asia,2010,13,4,9
+Laos                               ,Asia,2010,15,0,0
+Latvia                             ,Europe,2010,33,5,28
+Lebanon                            ,Africa,2010,168,60,108
+Liberia                            ,Africa,2010,48,26,22
+Lithuania                          ,Europe,2010,66,17,49
+Macedonia                          ,Europe,2010,45,13,32
+Malaysia                           ,Asia,2010,53,18,35
+Mexico                             ,North America,2010,"275,831","128,396","147,435"
+Moldova                            ,Europe,2010,44,9,35
+Mongolia                           ,Asia,2010,54,17,37
+Montenegro                         ,Europe,2010,       -,       -,       -
+Morocco                            ,Asia,2010,77,41,36
+Nepal                              ,Asia,2010,57,8,49
+Netherlands                        ,Europe,2010,95,27,68
+New Zealand                        ,Oceania,2010,35,17,18
+Nicaragua                          ,South America,2010,"1,906",804,"1,102"
+Niger                              ,Africa,2010,24,6,18
+Nigeria                            ,Africa,2010,370,184,186
+Norway                             ,Europe,2010,15,4,11
+Pakistan                           ,Asia,2010,332,78,254
+Panama                             ,South America,2010,189,123,66
+Paraguay                           ,South America,2010,41,8,33
+Peru                               ,South America,2010,"1,109",419,690
+Philippines                        ,South America,2010,750,326,424
+Poland                             ,Europe,2010,551,169,382
+Portugal                           ,Europe,2010,184,84,100
+Romania                            ,Europe,2010,168,56,112
+Russia                             ,Europe,2010,237,89,148
+Rwanda                             ,Africa,2010,5,0,0
+Saint Vincent and the Grenadines     ,South America,2010,26,18,8
+Saudi Arabia                       ,Asia,2010,38,11,27
+Senegal                            ,Africa,2010,66,13,53
+Serbia                             ,Europe,2010,       -,       -,       -
+Serbia and Montenegro 3       ,Europe,2010,109,27,82
+Sierra Leone                       ,Africa,2010,36,11,25
+Singapore                          ,Asia,2010,17,8,9
+Slovakia                           ,Europe,2010,67,19,48
+Slovenia                           ,Europe,2010,10,3,7
+Somalia                            ,Africa,2010,41,9,32
+South Africa                       ,Africa,2010,61,12,49
+"Soviet Union, former               ",Europe,2010,4,0,0
+Spain                              ,Europe,2010,137,30,107
+Sri Lanka                          ,Asia,2010,356,19,337
+Sudan                              ,Africa,2010,27,16,11
+Suriname                           ,Africa,2010,11,5,6
+Sweden                             ,Europe,2010,48,8,40
+Switzerland                        ,Europe,2010,13,0,0
+Syria                              ,Asia,2010,54,17,37
+Taiwan                             ,Asia,2010,62,18,44
+Tajikistan                         ,Asia,2010,16,0,0
+Tanzania                           ,Africa,2010,31,14,17
+Thailand                           ,Asia,2010,115,26,89
+Togo                               ,Africa,2010,18,6,12
+Tonga                              ,Africa,2010,34,22,12
+Trinidad and Tobago                  ,South America,2010,380,264,116
+Tunisia                            ,Africa,2010,30,10,20
+Turkey                             ,Asia,2010,178,51,127
+Uganda                             ,Africa,2010,28,10,18
+Ukraine                            ,Europe,2010,172,61,111
+United Arab Emirates               ,Asia,2010,4,0,0
+United Kingdom                     ,Europe,2010,501,207,294
+Uruguay                            ,South America,2010,169,65,104
+Uzbekistan                         ,Asia,2010,83,17,66
+Venezuela                          ,South America,2010,393,133,260
+Vietnam                            ,Asia,2010,38,9,29
+Yemen                              ,Asia,2010,41,10,31
+Zambia                             ,Africa,2010,23,5,18
+Zimbabwe                           ,Africa,2010,33,6,27
+Afghanistan                        ,Asia,2011,16,9,7
+Albania                            ,Europe,2011,161,35,126
+Algeria                            ,Africa,2011,12,4,8
+Angola                             ,Africa,2011,13,4,9
+Antigua-Barbuda                    ,South America,2011,17,12,5
+Argentina                          ,South America,2011,280,113,167
+Armenia                            ,Europe,2011,54,31,23
+Australia                          ,Oceania,2011,51,20,31
+Austria                            ,Europe,2011,25,5,20
+Azerbaijan                         ,Asia,2011,9,0,0
+Bahamas                    ,South America,2011,134,110,24
+Bangladesh                         ,Asia,2011,84,27,57
+Barbados                           ,South America,2011,40,31,9
+Belarus                            ,Europe,2011,21,11,10
+Belgium                            ,Europe,2011,17,7,10
+Belize                             ,South America,2011,223,155,68
+Bermuda                            ,South America,2011,15,12,3
+Bolivia                            ,South America,2011,194,93,101
+Bosnia-Herzegovina                 ,Europe,2011,63,53,10
+Brazil                             ,South America,2011,"3,012",541,"2,471"
+Bulgaria                           ,Europe,2011,66,17,49
+Burkina Faso                       ,Africa,2011,4,       -,4
+Burma                              ,Africa,2011,11,0,0
+Cambodia                           ,Asia,2011,88,74,14
+Cameroon                           ,Africa,2011,76,15,61
+Canada                             ,North America,2011,"1,289",412,877
+Cape Verde                         ,Africa,2011,26,10,16
+Chad                               ,Africa,2011,4,0,0
+Chile                              ,South America,2011,152,87,65
+"China, People's Republic           ",Asia,2011,987,214,773
+Colombia                           ,South America,2011,"1,857","1,037",820
+"Congo, Democratic Republic         ",Africa,2011,14,0,0
+"Congo, Republic                    ",Africa,2011,20,6,14
+Costa Rica                         ,South America,2011,373,156,217
+Cote d'Ivoire                      ,Africa,2011,27,11,16
+Croatia                            ,Europe,2011,18,8,10
+Cuba                               ,South America,2011,73,52,21
+Czech Republic                     ,Europe,2011,46,17,29
+"Czechoslovakia, former             ",Europe,2011,15,0,0
+Denmark                            ,Europe,2011,8,5,3
+Dominican Republic                 ,South America,2011,"2,860","2,127",733
+Ecuador                            ,South America,2011,"1,699",700,999
+Egypt                              ,Africa,2011,100,28,72
+El Salvador                        ,South America,2011,"17,308","8,486","8,822"
+Eritrea                            ,Africa,2011,6,3,3
+Estonia                            ,Europe,2011,25,12,13
+Ethiopia                           ,Africa,2011,52,27,25
+Fiji                               ,Oceania,2011,61,34,27
+Finland                            ,Europe,2011,7,3,4
+France                             ,Europe,2011,126,44,82
+Gabon                              ,Africa,2011,14,3,11
+Gambia                      ,Africa,2011,23,5,18
+Georgia                            ,Europe,2011,43,24,19
+Germany                            ,Europe,2011,146,62,84
+Ghana                              ,Africa,2011,182,74,108
+Greece                             ,Europe,2011,46,23,23
+Guatemala                          ,South America,2011,"30,313","11,700","18,613"
+Guinea                             ,South America,2011,32,11,21
+Guyana                             ,South America,2011,189,139,50
+Haiti                              ,South America,2011,714,248,466
+Honduras                           ,South America,2011,"21,963","10,801","11,162"
+Hong Kong                          ,Asia,2011,21,12,9
+Hungary                            ,Europe,2011,82,19,63
+India                              ,Asia,2011,690,158,532
+Indonesia                          ,Asia,2011,314,31,283
+Iran                               ,Asia,2011,53,14,39
+Iraq                               ,Asia,2011,22,16,6
+Ireland                            ,Europe,2011,58,28,30
+Israel                             ,Asia,2011,199,38,161
+Italy                              ,Europe,2011,122,44,78
+Jamaica                            ,South America,2011,"1,474","1,219",255
+Japan                              ,Asia,2011,36,14,22
+Jordan                             ,Asia,2011,106,52,54
+Kazakhstan                         ,Asia,2011,29,8,21
+Kenya                              ,Africa,2011,134,56,78
+Korea 2 ,Asia,2011,401,152,249
+Kosovo                             ,Europe,2011,28,14,14
+Kuwait                             ,Africa,2011,7,4,3
+Kyrgyzstan                         ,Asia,2011,10,0,0
+Laos                               ,Asia,2011,15,4,11
+Latvia                             ,Europe,2011,41,14,27
+Lebanon                            ,Africa,2011,90,35,55
+Liberia                            ,Africa,2011,35,27,8
+Lithuania                          ,Europe,2011,47,20,27
+Macedonia                          ,Europe,2011,33,11,22
+Malaysia                           ,Asia,2011,39,9,30
+Mexico                             ,North America,2011,"293,966","144,745","149,221"
+Moldova                            ,Europe,2011,60,19,41
+Mongolia                           ,Asia,2011,73,25,48
+Montenegro                         ,Europe,2011,10,5,5
+Morocco                            ,Asia,2011,60,37,23
+Nepal                              ,Asia,2011,46,9,37
+Netherlands                        ,Europe,2011,62,24,38
+New Zealand                        ,Oceania,2011,44,20,24
+Nicaragua                          ,South America,2011,"1,495",694,801
+Niger                              ,Africa,2011,10,3,7
+Nigeria                            ,Africa,2011,357,166,191
+Norway                             ,Europe,2011,7,0,0
+Pakistan                           ,Asia,2011,220,71,149
+Panama                             ,South America,2011,148,98,50
+Paraguay                           ,South America,2011,25,8,17
+Peru                               ,South America,2011,971,456,515
+Philippines                        ,South America,2011,675,337,338
+Poland                             ,Europe,2011,413,139,274
+Portugal                           ,Europe,2011,143,73,70
+Romania                            ,Europe,2011,188,76,112
+Russia                             ,Europe,2011,234,99,135
+Rwanda                             ,Africa,2011,8,3,5
+Saint Vincent and the Grenadines     ,South America,2011,19,0,0
+Saudi Arabia                       ,Asia,2011,15,4,11
+Senegal                            ,Africa,2011,50,20,30
+Serbia                             ,Europe,2011,11,3,8
+Serbia and Montenegro 3       ,Europe,2011,74,18,56
+Sierra Leone                       ,Africa,2011,45,25,20
+Singapore                          ,Asia,2011,14,6,8
+Slovakia                           ,Europe,2011,37,10,27
+Slovenia                           ,Europe,2011,6,3,3
+Somalia                            ,Africa,2011,28,5,23
+South Africa                       ,Africa,2011,50,22,28
+"Soviet Union, former               ",Europe,2011,4,0,0
+Spain                              ,Europe,2011,121,38,83
+Sri Lanka                          ,Asia,2011,199,12,187
+Sudan                              ,Africa,2011,18,9,9
+Suriname                           ,Africa,2011,13,7,6
+Sweden                             ,Europe,2011,26,7,19
+Switzerland                        ,Europe,2011,12,6,6
+Syria                              ,Asia,2011,32,12,20
+Taiwan                             ,Asia,2011,69,14,55
+Tajikistan                         ,Asia,2011,31,10,21
+Tanzania                           ,Africa,2011,26,9,17
+Thailand                           ,Asia,2011,85,14,71
+Togo                               ,Africa,2011,16,5,11
+Tonga                              ,Africa,2011,45,37,8
+Trinidad and Tobago                  ,South America,2011,321,234,87
+Tunisia                            ,Africa,2011,13,6,7
+Turkey                             ,Asia,2011,118,39,79
+Uganda                             ,Africa,2011,27,5,22
+Ukraine                            ,Europe,2011,205,81,124
+United Arab Emirates               ,Asia,2011,4,       -,4
+United Kingdom                     ,Europe,2011,313,162,151
+Uruguay                            ,South America,2011,167,68,99
+Uzbekistan                         ,Asia,2011,58,12,46
+Venezuela                          ,South America,2011,304,117,187
+Vietnam                            ,Asia,2011,50,23,27
+Yemen                              ,Asia,2011,38,14,24
+Zambia                             ,Africa,2011,10,0,0
+Zimbabwe                           ,Africa,2011,35,16,19
