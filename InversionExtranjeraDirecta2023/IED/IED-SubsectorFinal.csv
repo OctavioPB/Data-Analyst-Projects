@@ -1,0 +1,392 @@
+﻿"Sector,",subsector,Total 2006,Total 2007,Total 2008,Total 2009,Total 2010,Total 2011,Total 2012,Total 2013,Total 2014,Total 2015,Total 2016,Total 2017,Total 2018,Total 2019,Total 2020,Total 2021,Total 2022,Total 2023,Total general
+"11 Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",111 Agricultura,-3,6.8,30.9,-2.4,26.4,29.7,43.4,132.2,69.9,35.8,48.4,62.9,16.7,52.5,70.1,4.8,106.4,3.6,734.9
+"11 Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",112 Cría y explotación de animales,6.2,-5.6,80.4,3.2,67.4,142.9,85.8,100.2,52.5,135.3,43.6,-44.8,32.5,53.7,151.2,155.7,118.8,C,"1,193.00"
+"11 Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",113 Aprovechamiento forestal,0,C,0,0,0,0,0,0,C,0,0,C,C,C,C,C,0,0,2.4
+"11 Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza","114 Pesca, caza y captura",0,C,C,0,C,C,0,C,0,C,0,0,0,0,0,0,0,0,0.6
+"11 Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",115 Servicios relacionados con las actividades agropecuarias y forestales,-1.4,-8.5,8.9,13.1,56.9,20.6,45.1,8.3,37.7,13.8,11.4,53,-53.2,23.1,-41.4,46.2,89.6,C,315.4
+21 Minería,211 Extracción de petróleo y gas,74.5,68.3,123.6,-222.1,-256,-308.5,262.7,47.5,267.9,"1,013.60",399.9,927.2,916,798.8,591.8,"1,610.40",343.5,10.4,"6,669.60"
+21 Minería,"212 Minería de minerales metálicos y no metálicos, excepto petróleo y gas",472.3,"1,946.20","4,518.30","1,290.70","1,647.20","1,087.80","2,459.30","5,469.40","2,379.30",160,785.5,765,777.4,728.8,395.2,"2,874.00",906,370,"29,032.50"
+21 Minería,213 Servicios relacionados con la minería,3.3,63.9,25.7,281.8,15.2,330.9,141.7,253.2,114.2,616.6,43.5,249.1,273.2,563,713.9,468.3,563.6,38.2,"4,759.10"
+21 Minería,"22 Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",-42,"1,086.20",599.6,33,601,390.5,713.7,"1,491.40",463.2,664.6,678.1,"1,601.50","3,992.30",739.4,534,336.8,746.5,50.7,"14,680.60"
+31-33 Industrias manufactureras,311 Industria alimentaria,"1,102.90",589.7,292.7,306,"1,863.10","1,968.80",-320,546.5,673.6,"1,356.30",901.5,386.4,287.5,564.1,385.3,11.3,"1,307.30",828.7,"13,051.70"
+31-33 Industrias manufactureras,312 Industria de las bebidas y del tabaco,895.7,"1,302.40",900.8,785.1,"5,347.40",929,677.8,"16,004.50","3,160.20","1,776.60","1,858.10","1,766.30",897.3,"2,117.70",689.5,927.2,525.5,"2,220.80","42,781.60"
+31-33 Industrias manufactureras,313 Fabricación de insumos textiles y acabado de textiles,66.6,-10.5,66.1,-0.7,22,-8.6,-11.3,15.5,50.7,50.7,35.6,101.5,44.9,16.9,-4.4,42.2,26.8,6.1,509.8
+31-33 Industrias manufactureras,"314 Fabricación de productos textiles, excepto prendas de vestir",154.2,69.5,49.8,5.1,91.9,-27.9,18.7,48.5,48.9,29.7,15.7,6.3,9.7,23.5,18.2,25.7,25.9,14.8,628.1
+31-33 Industrias manufactureras,315 Fabricación de prendas de vestir,191,-2.3,90.1,147.3,114.6,95,69.8,96.8,128.2,55.7,140.3,155.7,72.3,50.8,24.9,15.5,65.6,9.7,"1,520.70"
+31-33 Industrias manufactureras,"316 Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos",17,33.9,27.7,3,2.2,34.5,18.7,22.9,22.9,22.1,46.9,54.7,15.2,22.9,38.5,11.9,2.1,0.7,397.8
+31-33 Industrias manufactureras,321 Industria de la madera,6.9,6.3,3.7,5.3,19.3,8.6,7.8,87.2,33.7,89.1,24.1,-5.3,16.2,-27.8,9.5,4.1,0.7,46.2,335.7
+31-33 Industrias manufactureras,322 Industria del papel,13.5,115.6,64.4,238.4,192.4,52.9,106.1,301.3,435.8,99.8,585.8,133.3,206.2,166.3,120.3,146.4,"1,171.00",96.4,"4,246.00"
+31-33 Industrias manufactureras,323 Impresión e industrias conexas,40.7,52.8,46.1,23.5,8,7.1,16.7,8.9,7.2,5.1,3,21.4,39.8,23.9,53.4,38.6,5.3,6,407.5
+31-33 Industrias manufactureras,324 Fabricación de productos derivados del petróleo y del carbón,21.3,0.7,C,0,C,-2.7,6.6,C,C,1.6,13.6,2.7,16,0,24,10.3,5.9,5.2,113.3
+31-33 Industrias manufactureras,325 Industria química,"2,660.80","2,747.10","1,758.20","1,544.50",339.4,"3,534.70","2,210.60","2,482.70","3,849.30","1,397.10","3,935.70",483.8,"1,104.10","1,950.70","1,382.10",876.8,536.9,"1,348.60","34,143.10"
+31-33 Industrias manufactureras,326 Industria del plástico y del hule,436.2,602.1,560.8,414.6,458.4,781.1,860.7,"1,094.50","1,017.70",733.2,"1,542.30",989.2,"1,190.30",583.3,768.2,632.7,247.4,283.1,"13,195.90"
+31-33 Industrias manufactureras,327 Fabricación de productos a base de minerales no metálicos,313.8,117,192.8,43.6,-18.5,47.2,88.1,279.7,13.3,"2,329.90",17.3,180.6,430.8,157.6,801.8,122.3,64.5,130.4,"5,312.20"
+31-33 Industrias manufactureras,331 Industrias metálicas básicas,300.2,"3,577.20",643.3,172.3,236.9,465.6,594.1,"1,642.30",741.9,981.4,390,450.3,"1,795.50",220.2,453.5,702.6,"2,294.60","1,972.10","17,633.80"
+31-33 Industrias manufactureras,332 Fabricación de productos metálicos,182,245.1,274.4,149.4,8.3,137.2,216.8,374.6,253.2,138.4,163.7,410.2,259.6,312.1,91,30.1,116.4,58,"3,420.50"
+31-33 Industrias manufactureras,333 Fabricación de maquinaria y equipo,897.7,725.1,493,668,984,199.2,581.2,72.4,"1,549.90","2,076.50","1,008.20","1,044.10",873.5,223.9,901.5,"2,012.30",588.5,211,"15,110.10"
+31-33 Industrias manufactureras,"334 Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos","1,319.40","1,003.90",760.4,"1,157.00","2,244.00",609.1,"1,352.20","1,505.10",870.7,895.3,"1,241.40",923.5,"1,504.50",662.2,910.5,"1,253.20","1,336.20",329,"19,877.40"
+31-33 Industrias manufactureras,"335 Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",444.6,570.7,725.5,355.1,162.5,471.7,335.9,"1,828.20",320.8,219.9,718.3,686.1,512.7,799.8,371.6,"1,085.10",750.1,426.6,"10,785.10"
+31-33 Industrias manufactureras,336 Fabricación de equipo de transporte,"1,947.90","2,139.50","1,849.30","1,762.40","2,140.50","2,389.40","3,212.00","4,224.20","5,201.50","5,939.00","5,363.10","7,602.70","6,541.90","7,436.60","3,935.00","4,270.20","4,338.10","1,834.70","72,128.10"
+31-33 Industrias manufactureras,"337 Fabricación de muebles, colchones y persianas",11.5,26.6,7.2,27.5,36.9,20.2,6.9,31.7,485.8,60.1,40.4,21.3,104.6,19.7,27.4,17,-9.3,5.4,940.8
+31-33 Industrias manufactureras,339 Otras industrias manufactureras,179.4,130.6,53.2,320.9,325.4,124.9,-39,393.3,188.4,352,263.6,177.1,261,596.5,282.1,288.1,310.6,92.8,"4,300.90"
+43 Comercio al por mayor,"431 Comercio al por mayor de abarrotes, alimentos, bebidas, hielo y tabaco",87.4,63.3,69.4,-31.7,53.7,103.7,-13.5,93.9,100.5,166.3,38.2,123.9,147.9,375.9,68.7,72,70.5,5.6,"1,595.60"
+43 Comercio al por mayor,432 Comercio al por mayor de productos textiles y calzado,11.4,-6.5,-23.9,92.8,28.7,325.4,215.2,34.4,54.8,136.6,93.8,120.4,101,176.5,52.5,27.5,21.5,44.6,"1,506.70"
+43 Comercio al por mayor,"433 Comercio al por mayor de productos farmacéuticos, de perfumería, artículos para el esparcimiento, electrodomésticos menores y aparatos de línea blanca",122.6,212.2,254.5,195.8,217.2,253.8,151.5,125.7,149.8,-44.7,144.4,118.8,175.7,192,134.4,128,341.8,71.2,"2,944.70"
+43 Comercio al por mayor,"434 Comercio al por mayor de materias primas agropecuarias y forestales, para la industria, y materiales de desecho",114,-0.4,99.5,60.1,94.7,362.3,36.2,620.9,284.1,99.5,253.3,517.6,93.4,876.5,97.7,455.7,212.7,53.5,"4,331.30"
+43 Comercio al por mayor,"435 Comercio al por mayor de maquinaria, equipo y mobiliario para actividades agropecuarias, industriales, de servicios y comerciales, y de otra maquinaria y equipo de uso general",143.4,21.2,54.8,36,-160.4,116.8,223.8,259.4,196.1,466.1,235.6,432.7,441.8,320.4,248.3,84.3,-29.4,1.8,"3,092.60"
+43 Comercio al por mayor,"436 Comercio al por mayor de camiones y de partes y refacciones nuevas para automóviles, camionetas y camiones",15.7,79.8,59.1,-13,-29.2,52.2,-1.7,18.4,17.6,70.3,13.9,-8.6,111.9,51.5,46.5,34.1,66.4,66.5,651.2
+43 Comercio al por mayor,437 Intermediación de comercio al por mayor,2.1,-3.7,0,-5.3,0.4,0.8,2.9,103.8,8.7,26.1,75.2,124.6,390.6,534,273.1,628.9,460.5,92.3,"2,715.10"
+46 Comercio al por menor,"461 Comercio al por menor de abarrotes, alimentos, bebidas, hielo y tabaco",3.2,14,20.2,73.1,16.3,57.3,11.7,10.9,3.2,-3.2,3.7,3.5,3.3,5.7,19.3,5.6,2,0,250
+46 Comercio al por menor,462 Comercio al por menor en tiendas de autoservicio y departamentales,-260,658.3,893,753.7,"2,210.20","1,547.40","1,393.80","1,078.70",963.2,"1,510.40",597.3,"1,096.90",898.5,652,724.4,628.3,530,C,"16,113.60"
+46 Comercio al por menor,"463 Comercio al por menor de productos textiles, bisutería, accesorios de vestir y calzado",0.6,0,0.1,3.7,16.2,6.8,60.6,49,122.6,25.9,42.3,-74.1,2.3,3.4,26.8,10.7,7.5,0,304.8
+46 Comercio al por menor,464 Comercio al por menor de artículos para el cuidado de la salud,-8.6,-0.2,3.6,3.6,-1.2,1.4,-0.1,5.6,3,2.5,0.4,18.1,1,10.8,-1.2,-9.1,-2,0,27.6
+46 Comercio al por menor,"465 Comercio al por menor de artículos de papelería, para el esparcimiento y otros artículos de uso personal",-0.1,-4.2,6.3,-49.9,-132.6,-85.1,152.9,-639,49.9,45.8,9.5,7.9,16.4,5.9,-20.1,40.1,44.3,21.5,-530.3
+46 Comercio al por menor,"466 Comercio al por menor de enseres domésticos, computadoras, artículos para la decoración de interiores y artículos usados",10.9,-7.8,38.5,3.1,69.7,96.5,45.5,90.3,21.9,35.3,50,58.9,58.6,44.5,-23,-13.5,11.4,0,590.8
+46 Comercio al por menor,"467 Comercio al por menor de artículos de ferretería, tlapalería y vidrios",1.7,C,-0.2,-3,30.1,9,79.5,-7.2,16.5,-9.3,86.8,19.2,14.1,19.5,-3.2,14.5,31,0,298.1
+46 Comercio al por menor,"468 Comercio al por menor de vehículos de motor, refacciones, combustibles y lubricantes",43.7,76.9,37.6,13.3,-2,80.4,443.9,-56.4,71.5,83.6,26.1,31.4,129.1,84.2,24.4,185.8,-32.3,127.6,"1,368.90"
+46 Comercio al por menor,"469 Comercio al por menor exclusivamente a través de internet, y catálogos impresos, televisión y similares",C,C,C,0,3.9,4.2,1.7,0.3,0,0.3,0,0,0,5.6,0.1,C,0,0,11.2
+"47-48 Transporte, correos y almacenamiento",481 Transporte aéreo,51.6,95.4,213.8,79.1,2.7,-0.8,89.3,53.5,C,30.6,125.2,706.8,19.7,35.8,44.7,8.5,"2,131.30",0,"3,822.40"
+"47-48 Transporte, correos y almacenamiento",482 Transporte por ferrocarril,34.8,-523.6,190,-108.3,189.9,-145.1,C,262.5,308.5,860.3,C,151.2,397.3,129.7,C,269.7,C,0,"2,908.60"
+"47-48 Transporte, correos y almacenamiento",483 Transporte por agua,9.8,619.7,31.7,-18.9,-14.1,C,-31.7,-18.1,-29.7,-5.2,-16.1,18,5.5,9.5,6.1,2.1,C,0,562.3
+"47-48 Transporte, correos y almacenamiento",484 Autotransporte de carga,C,C,0.1,5.5,0.4,C,C,C,C,C,C,C,C,C,0,0,0,0,10.8
+"47-48 Transporte, correos y almacenamiento","485 Transporte terrestre de pasajeros, excepto por ferrocarril",C,0,0,0,0,0,C,C,0,2,0,C,0,0,0,C,0,0,1.5
+"47-48 Transporte, correos y almacenamiento",486 Transporte por ductos,118.2,234.9,959.7,-106.4,447.2,97.1,919,943.3,"1,124.70","1,880.80","1,402.10","2,232.80",516.6,419.7,86.1,"2,286.90",906.7,289.3,"14,758.60"
+"47-48 Transporte, correos y almacenamiento",487 Transporte turístico,2.9,0,C,C,0,C,C,0.2,C,C,C,0,C,C,C,0,0,C,13.7
+"47-48 Transporte, correos y almacenamiento",488 Servicios relacionados con el transporte,34,70.3,136.8,40.9,76.3,182.9,154,202.4,323.4,48,126.5,190.9,220.3,264.2,195.2,307,556.2,329.2,"3,458.50"
+"47-48 Transporte, correos y almacenamiento",492 Servicios de mensajería y paquetería,-2.6,11.3,5.3,0.5,0.6,31.7,163.2,41,66.6,17.7,16.4,11.5,89.6,27,2.6,9.9,16.4,C,507
+"47-48 Transporte, correos y almacenamiento",493 Servicios de almacenamiento,40.8,131.1,36.2,20,10.9,35.9,12.9,0.9,18.3,C,C,-3.3,65.7,30.5,-2.9,C,19.3,C,490.8
+51 Información en medios masivos,"511 Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión",6.2,10.8,2,25.2,11.3,136.6,-1.1,46.3,41.5,55.1,16.7,-1.1,106.8,66.9,-33.4,83.8,27.6,-19,582.4
+51 Información en medios masivos,"512 Industria fílmica y del video, e industria del sonido",51,5.1,1.4,62.4,2.6,4.9,-32.3,18.1,-4.9,7.3,30.5,6.2,31.2,2,-2.4,-5.6,37.7,C,215.5
+51 Información en medios masivos,515 Radio y televisión,15.1,-408.8,34.5,-0.1,C,"1,088.30",C,0,C,-611.2,C,187.4,C,-2.6,0,C,C,0,"6,079.00"
+51 Información en medios masivos,517 Telecomunicaciones,531.4,368.2,"1,104.80",410.9,"2,374.60",504.1,588.8,"2,640.90","-4,276.40","2,749.70",684.6,321.7,"1,062.20","1,661.20","1,064.20",337,31.2,-243.5,"11,915.60"
+51 Información en medios masivos,"518 Procesamiento electrónico de información, hospedaje y otros servicios relacionados",C,C,C,C,C,18.6,-10.7,3.6,0.9,0.8,55.3,22.4,2.1,18,40.6,104.3,52.6,C,334.6
+51 Información en medios masivos,519 Otros servicios de información,8.6,8,4.7,8.8,113.8,32.7,-0.6,33.2,4.6,28.5,88.7,8.7,30.3,52.5,207.8,36.5,153.2,130.8,950.7
+52 Servicios financieros y de seguros,522 Instituciones de intermediación crediticia y financiera no bursátil,"4,523.70","6,079.50","6,627.10","2,935.60","2,117.50","2,210.60","-2,527.70",176.6,"4,253.20","2,405.30","2,155.80","2,159.50","1,879.00","4,292.40","5,768.80","3,841.90","3,797.70","5,366.70","58,063.10"
+52 Servicios financieros y de seguros,"523 Actividades bursátiles, cambiarias y de inversión financiera",-240.9,-12.9,203.4,247,280.3,277,145.7,457.6,332.4,660,353.5,176.8,131.4,752.6,211.2,62.7,284.7,176.3,"4,498.90"
+52 Servicios financieros y de seguros,"524 Compañías de seguros, fianzas, y administración de fondos para el retiro",197.9,135,452,-117.3,24.8,231.9,83.3,"-1,166.00",241,174.7,309.4,212.4,220.3,417.6,547.3,804.4,251.5,470.6,"3,490.80"
+52 Servicios financieros y de seguros,525 Sociedades de inversión especializadas en fondos para el retiro y fondos de inversión,C,C,C,C,0,0,0,C,0,0,C,C,C,269.3,"2,302.80",242.6,"1,178.70",C,"4,681.00"
+53 Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,531 Servicios inmobiliarios,866,"1,813.10","1,413.40","1,161.50",441.7,997.7,661.3,389.8,570.7,117.1,340.8,458.6,263,286.6,60,229,143.2,21.9,"10,235.50"
+53 Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,532 Servicios de alquiler de bienes muebles,224.6,111.1,268.7,58.6,50.4,63.9,73.5,80.1,51.7,216,108.4,105.6,52.5,918.4,262.7,88,344.2,4.6,"3,083.00"
+53 Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,"533 Servicios de alquiler de marcas registradas, patentes y franquicias",5.9,31.4,45.3,6.1,55.6,2.8,-1.7,26.4,11.3,1.4,2.3,-5.1,3.6,33.8,2.8,13.4,112.6,1.3,349.2
+"55 Servicios profesionales, científicos y técnicos","541 Servicios profesionales, científicos y técnicos",215.6,235.3,342.2,214.4,114.4,276.5,810.2,486.9,135.5,291.9,147.1,345.7,95.3,432.1,377.7,177.9,33.4,153.4,"4,885.60"
+55 Corporativos,551 Corporativos,0,0,0,0,0,0,0,0,0,0,0,C,C,C,0,0,0,C,-24.3
+55 Corporativos,5511 Corporativos,0,0,0,0,0,0,0,0,0,0,0,C,C,C,0,0,0,C,-24.3
+55 Corporativos,"56 Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",303.9,248.7,168.2,643.4,100.5,748.2,217.5,540.7,189.8,8,57.8,183.8,124,142.9,40.3,175.1,127.7,57.4,"4,078.00"
+55 Corporativos,561 Servicios de apoyo a los negocios,301.5,244.9,167.2,633.2,103.4,754.1,201.7,537.6,183.1,12.7,57,182.7,124.2,142.4,40.3,175.1,127.7,57.4,"4,046.30"
+55 Corporativos,562 Manejo de residuos y servicios de remediación,C,C,C,10.2,C,-5.9,15.8,3,6.7,C,0.8,1.1,-0.2,C,0,C,C,0,31.7
+61 Servicios educativos,611 Servicios educativos,1.3,39.4,168.8,1.6,7.4,13.6,8.6,14.6,4.1,21.2,0,30.2,63.7,-7,-1.4,24.1,24.4,15.7,430.4
+62 Servicios de salud y de asistencia social,621 Servicios médicos de consulta externa y servicios relacionados,4.9,22.3,18,3.7,5.5,22.3,36.6,12,-1.2,57.6,7,4.9,12.3,7.5,10.2,12.2,10.9,C,247
+62 Servicios de salud y de asistencia social,622 Hospitales,C,0,3.2,C,C,1,C,0.6,C,0,3,6.4,C,18.3,C,0,C,0,15.1
+62 Servicios de salud y de asistencia social,623 Residencias de asistencia social y para el cuidado de la salud,C,0,0,0,0,0,C,C,0,C,C,0,C,0,0,0,0,0,4.8
+62 Servicios de salud y de asistencia social,624 Otros servicios de asistencia social,C,C,0,C,C,0.1,C,C,C,C,0,0,0,C,C,C,C,0,0.6
+"71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos","711 Servicios artísticos, culturales y deportivos, y otros servicios relacionados",0,251.2,-19.5,0,0.1,52.5,-1.8,21.7,0,0,0.1,1.6,0,32.4,2.6,-0.1,1.7,0,342.5
+"71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos","712 Museos, sitios históricos, zoológicos y similares",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",713 Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos,3.7,1.8,10.1,70.5,44.5,111.3,10.8,22.7,125.5,117.3,51.5,221.7,40.7,5.1,-27.6,96,38.9,C,951.9
+72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas,721 Servicios de alojamiento temporal,"1,527.50","1,704.60",743.7,488.8,838.6,889,"1,302.40","1,395.10",724,534.3,596.8,887.5,"1,238.10","1,023.70","1,108.60","1,441.30","1,459.10",246.8,"18,149.90"
+72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas,722 Servicios de preparación de alimentos y bebidas,-11.9,341.8,-325.1,10.7,168.1,195.5,60,-11,35.3,-27.8,6.8,4.6,16.1,17.2,-7,24.5,0,C,497.7
+81 Otros servicios excepto actividades gubernamentales,811 Servicios de reparación y mantenimiento,-2,17.8,24.5,19.9,30.2,226.5,-1.4,53.7,11,-0.7,18.8,20.3,32,29.6,37.4,44.4,2.8,2.7,567.4
+81 Otros servicios excepto actividades gubernamentales,812 Servicios personales,0.1,40.5,0.1,0.6,0.1,0.1,0.1,2.5,1.1,0.1,0.2,4.3,15.3,34.5,13.1,8,16.6,C,137.3
+81 Otros servicios excepto actividades gubernamentales,813 Asociaciones y organizaciones,0.1,1.2,1.7,0,C,0,0,C,C,0,C,0,0,0,0,0,0,0,3.7
+81 Otros servicios excepto actividades gubernamentales,814 Hogares con empleados domésticos,0,C,0,0,0,0,0,C,0,0,0,0,0,0,0,0,0,0,C
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
