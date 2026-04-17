@@ -10,7 +10,7 @@
 | IED por Entidad Federativa | ⚠️ Parcial |
 | IED por Sector | ⚠️ Solo carga de datos |
 | IED por País de Origen | ✅ Completo |
-| Empresas extranjeras en México | ❌ Faltante |
+| IED por País × Sector (Top 5 inversores) | ✅ Completo |
 | Análisis combinado País × Entidad | ❌ Faltante |
 | Conclusiones | ❌ Faltante |
 
