@@ -8,7 +8,7 @@
 | IED como % del PIB + regresión lineal | ✅ Completo |
 | Modelos probabilísticos (Bernoulli, Binomial) | ✅ Completo |
 | IED por Entidad Federativa | ⚠️ Parcial |
-| IED por Sector | ⚠️ Solo carga de datos |
+| IED por Sector | ✅ Completo |
 | IED por País de Origen | ✅ Completo |
 | IED por País × Sector (Top 5 inversores) | ✅ Completo |
 | Análisis combinado País × Entidad | ✅ Completo |
