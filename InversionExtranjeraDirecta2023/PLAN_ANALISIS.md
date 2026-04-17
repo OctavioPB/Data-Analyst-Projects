@@ -11,7 +11,7 @@
 | IED por Sector | ⚠️ Solo carga de datos |
 | IED por País de Origen | ✅ Completo |
 | IED por País × Sector (Top 5 inversores) | ✅ Completo |
-| Análisis combinado País × Entidad | ❌ Faltante |
+| Análisis combinado País × Entidad | ✅ Completo |
 | Conclusiones | ❌ Faltante |
 
 ---
