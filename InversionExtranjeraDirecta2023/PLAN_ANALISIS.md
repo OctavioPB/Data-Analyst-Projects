@@ -9,7 +9,7 @@
 | Modelos probabilísticos (Bernoulli, Binomial) | ✅ Completo |
 | IED por Entidad Federativa | ⚠️ Parcial |
 | IED por Sector | ⚠️ Solo carga de datos |
-| IED por País de Origen | ⚠️ Solo carga de datos |
+| IED por País de Origen | ✅ Completo |
 | Empresas extranjeras en México | ❌ Faltante |
 | Análisis combinado País × Entidad | ❌ Faltante |
 | Conclusiones | ❌ Faltante |
